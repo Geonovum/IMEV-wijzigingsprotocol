@@ -4,14 +4,16 @@ Een wijzigingsprotocol beschrijft de manier waarop wijzigingen in het Informatie
 
 ### Begrippen
 
+TO DO
+  
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 28.25374531835206%;'
 <col id='col2' style='width: 71.74625468164794%;'
 </colgroup>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><b>CAB</b>
+<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><b>Adviesgroep</b>
 
 </td>
-<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><aside class='note'>Change Advisory Board: adviesorgaan bestaande uit vertegenwoordigers van de verschillende gebruikers van het Informatiemodel: softwareleveranciers, bronhouders, bevoegde gezagen, ed. Het CAB adviseert het ministerie over de lijst van wijzigingsverzoeken voor de komende release en bewaakt de kwaliteit van het wijzigingsproces. Het CAB adviseert over y- en x-wijzigingen. <span style='background-color: green;'Het ministerie/</span><span style='background-color: green;'Geonovum</span> zit het CAB voor.
+<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>Adviesorgaan bestaande uit vertegenwoordigers van de verschillende gebruikers van het Informatiemodel: softwareleveranciers, bronhouders, bevoegde gezagen, ed. Het CAB adviseert het ministerie over de lijst van wijzigingsverzoeken voor de komende release en bewaakt de kwaliteit van het wijzigingsproces. Het CAB adviseert over y- en x-wijzigingen. 
 
 </aside>
 
