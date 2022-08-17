@@ -1,6 +1,6 @@
 ## Samenvatting
 
-Een wijzigingsprotocol beschrijft de manier waarop wijzigingen in het Informatiemodel Externe Veiligheidsrisico’s en de bijbehorende beheerobjecten plaatsvinden: het wijzigingsproces. In het protocol zijn basisbegrippen en uitgangspunten uiteengezet voor het wijzigingsproces, bijvoorbeeld wat onder nieuwe en volgende versies verstaan wordt. Hoofstuk 3 gaat in op type wijzigingen en het besluitvormingsproces van elk type wijziging en het releasebeheer. Hoofdstuk 4 beschrijft het wijzigingsproces.
+Een wijzigingsprotocol beschrijft de manier waarop wijzigingen in het Informatiemodel Externe Veiligheidsrisico’s en de bijbehorende beheerobjecten plaatsvinden: het wijzigingsproces. In het protocol zijn basisbegrippen en uitgangspunten uiteengezet voor het wijzigingsproces, bijvoorbeeld wat onder nieuwe en volgende versies verstaan wordt. <a href='#gebruik-van-het-wijzigingsprotocol'>Hoofdstuk 3<a></a> gaat in op type wijzigingen en het besluitvormingsproces van elk type wijziging en het releasebeheer. <a href='#wijzigingsproces'>Hoofdstuk 4<a></a> beschrijft het wijzigingsproces.
 
 ### Begrippen
 
