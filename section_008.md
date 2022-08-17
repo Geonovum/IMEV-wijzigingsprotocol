@@ -1,6 +1,4 @@
-## Bijlage 1
-
-<a name='_Ref482104862'></a>Overzicht <a name='_Hlk503261023'></a>status van wijzigingsverzoeken 
+## Overzicht status van wijzigingsverzoeken
 
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 23.57512953367876%;'
