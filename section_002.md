@@ -19,20 +19,15 @@ TO DO
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><b>CAB</b> <b>gebruikersgroep</b>
+<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><b>Expertgroep</b>
 
-<b>Leveranciersoverleg</b>
 
 </td>
-<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>De CAB gebruikersgroep verzorgt de impactanalyse van de wijzigingsverzoeken en maakt het wijzigingsvoorstel. Tevens verzorgt de gebruikersgroep de toetsing van z-wijzigingen. Geonovum zit de gebruikersgroep voor. 
-
-Breed overleg van softwareleveranciers, vertegenwoordigers van IPO en VNG, brancheorganisatie, ed., adviseert het CAB over het wijzigingsvoorstel, denkt mee over implementatie. Geonovum zit het overleg voor.
+<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>De expertgroep verzorgt input voor de de impactanalyses van de wijzigingsverzoeken.
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><b>IMEV</b>
-
-<b>Bijkomende/bijbehorende beheerobjecten</b>
+<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><b>IMEV en beheerobjecten</b>
 
 </td>
 <td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>Informatiemodel Externe Veiligheidsrisico’s voor de gegevensuitwisseling met het Register Externe Veiligheid (REV)
@@ -46,12 +41,10 @@ Breed overleg van softwareleveranciers, vertegenwoordigers van IPO en VNG, branc
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'></td>
-<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'></td>
-</tr>
 <tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><b>Wijzigingsprotocol</b>
 
 </td>
+</tr>
 <td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>Hiermee wordt het geheel van vastgelegde regels en afspraken voor het wijzigen van de standaard en de bijkomende beheerobjecten vastgelegd.
 
 </td>
