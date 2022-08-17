@@ -1,47 +1,53 @@
-## Implementatie ondersteuning
+## Escalatie- en klachtenprocedure
 
-Het in gebruik nemen van (een volgende versie van) een standaardstaat centraal in deze fase. Hiervoor leveren we de verschillende implementatiebestanden op. Wij ondersteunen de implementatie met onder meer een helpdesk, en validator. 
+In voorgaande hoofdstukken gaat het protocol ervan uit dat er wijzigingen "in vrijheid" worden doorgevoerd. In het primaire proces wordt geen rekening gehouden met noodzakelijke wijzigingen die met spoed of onder druk van bijvoorbeeld externe nieuwe regelgeving moeten worden doorgevoerd. Dit is mogelijk middels een escalatieprocedure.  
 
-### Technische bestanden
+### Escalatie- en klachtenprocedure
 
-Om softwareleveranciers en gebruikers te ondersteunen bij de implementatie van een nieuwe versie van de standaard, leveren wij verschillende bestanden en documentatie op:
+We doorlopen een escalatieprocedure als er een wijziging noodzakelijk is die niet in het reguliere wijzigingsproces doorgevoerd kan worden, omdat dit te lang duurt. Een uitputtende lijst met situaties en criteria wanneer dit van toepassing is, valt op voorhand niet te geven. Maar voor de beeldvorming: het gaat om situaties waarbij het niet doorvoeren van een bepaalde noodzakelijke wijziging leidt tot onaanvaardbare risico's voor de uitvoeringspraktijk of het onmogelijk uitvoeren (vanwege bijvoorbeeld tegenstrijdige wetten) van werkzaamheden.
 
-<ul><li>Implementatiebestanden</li>
-<li>Voorbeeldbestanden</li>
-<li>Voorbeeldberichten</li>
+De escalatieprocedure wordt niet gebruikt om reguliere wijzigingen sneller door te kunnen voeren.
+
+#### Sturende principes bij escalatie
+
+Er wordt geen vast proces gegeven om de escalatieprocedure te doorlopen, omdat verschillende situaties wellicht tot een verschillende wijze van handelen moeten leiden. In plaats daarvan zijn onderstaande sturende principes leidend om verantwoordelijkheden te duiden.
+
+<ul><li><b>Signalering</b></li>
 </ul>
 
-Schema’s en Schematron (validatieregels) zijn voorbeelden van implementatiebestanden die als onderdeel van standaarden door Geonovum worden opgeleverd. Het kan hier ook gaan om implementatiebestanden voor visualisatieregels en iconen.
+Uit het werkveld kunnen signalen ontstaan dat er met spoed iets gewijzigd zou moeten worden. Het is vooraf niet aan te geven uit welke kanalen deze geluiden zullen ontstaan. Het is wel van belang om de rol van Geonovum te onderkennen als antennefunctie voor het werkveld. In ieder geval zullen deze signalen op enig moment de opdrachtgever of Geonovum bereiken, en op dat moment zal er overleg gevoerd worden over deze signalen. 
 
-Voorbeeldbestanden en voorbeeldberichten kunnen worden gebruikt voor het testen van applicaties.
+<ul><li><b>Overleg</b></li>
+</ul>
 
-### Validatie en certificatie 
+Bij de besluitvorming binnen de escalatieprocedure wordt er in principe overleg gevoerd tussen de opdrachtgever voor het beheer van de betreffende standaard en Geonovum. Beide partijen raadplegen de betrokkenen daar waar nodig.
 
-Na het opleveren van de nieuwe standaard inclusief de verschillende onderdelen, richten wij ons op de ondersteuning van de standaard door softwareleveranciers, beheerders van voorzieningen/ registers. Bij deze groep gebruikers is de ondersteuning vooral technisch van aard. De validator is het hulpmiddel bij uitstek hierbij. 
+<ul><li><b>Besluitvorming</b></li>
+</ul>
 
-Soms zetten we conformiteitstoetsing in. In dat geval wordt een testprotocol voor een conformiteitstoets beschikbaar gesteld, waarmee (handmatig) kan worden gecontroleerd of een implementatie aan de norm voldoet.
+De beoordeling of de escalatieprocedure van toepassing is, wordt genomen door de voorzitter het gremium dat de beheeropdracht monitort, dan wel de contactpersoon bij de opdrachtgever. Ook het besluit welke wijzigingen er precies doorgevoerd moeten worden en op welke manier, wordt genomen door dezelfde persoon.
 
-Ook certificering van applicaties is mogelijk. Certificering van applicaties ondersteunt niet zozeer de (kwaliteit van de) implementatie van de standaarden, als wel de (snelheid van) adoptie ervan. Zodra het werkveld voldoende volwassen is en certificering niet meer nodig is om adoptie te versnellen, kan certificering komen te vervallen.
+<ul><li><b>Coördinatie</b></li>
+</ul>
 
-### Opleiding
+De coördinatie tijdens de escalatieprocedure wordt uitgevoerd door de voorzitter het gremium dat de beheeropdracht monitort, dan wel de contactpersoon bij de opdrachtgever. 
 
-Per standaard, en nieuwe versie van de standaard, bekijken we in hoeverre opleiding en advies van toegevoegde waarde zijn voor ondersteuning bij implementatie. De Geonovum wiki<span class='noot'>[4]<span class='noottekst'> Zie: http://wiki.geonovum.nl/ <br/></span></span> zetten we bijvoorbeeld in bij grote wijzigingen van de standaard. Tijdens bijeenkomsten verzorgen wij workshops en presentaties. In de verschillende vakbladen publiceren wij artikelen. 
+<ul><li><b>Communicatie met het werkveld</b></li>
+</ul>
 
-### Communicatie
+De communicatie met het werkveld wordt uitgevoerd door Geonovum. Als beheerder van de betreffende standaard wordt verwacht dat Geonovum het meest directe contacten heeft met het werkveld.
 
-Het hele wijzigingsproces staat of valt met een goede communicatie. Onder goede communicatie wordt verstaan het tijdig leveren van de juiste informatie aan de juiste belanghebbenden. Dit betreft de proceskant alsook de producten die er worden opgeleverd.
+#### Klachtenafhandeling
 
-<b>Elke nieuwe release van het Informatiemodel (X- en Y-wijzigingen)</b>
+Het garanderen van het serieus nemen van klachten kan alleen, door deze volgens een zorgvuldige procedure te behandelen. Klachten kunnen ook beschouwd worden als verbetersuggestie. We onderscheiden daarom twee verschillende type klachten met betrekking tot de standaarden:
 
-<b>Consultatie</b>
+<ul><li>Klachten over de toepassingsmogelijkheid van de standaard;</li>
+<li>Klachten over het beheer van de standaard.</li>
+</ul>
 
-Bij X-wijzigingen zal Geonovum de aanpassingen in het model in een publieke consultatie aan eenieder voorleggen.
+In het eerste geval is het feitelijk geen klacht maar een wens of eis tot het aanpassen van de standaard. De beheerders van de betreffende standaard nemen dit in behandeling en vastgelegd als wijzigingsverzoek en niet als klacht. In dit geval doet Geonovum haar werk goed. 
 
-<b>Werkafspraken</b>
+In het tweede geval is er sprake van ontevredenheid over de uitvoering van het beheerproces van de standaard en betreft niet de inhoud, de standaard zelf. De indiener is van mening dat Geonovum, het beheerteam van de betreffende standaard, dan wel een persoon het werk niet naar behoren uitvoert. In dat geval wordt de klacht doorgezet naar opdrachtgever van het beheer van de standaard. 
 
-De werkafspraken die bepalen hoe er in de tussentijd moet worden omgegaan met geconstateerde fouten en problemen (zie <a href='#_Ref80800946'>Hoofdstuk 5<a></a>). De werkafspraken publiceren wij via de Geonovum website. Door middel van nieuwsberichten op de website en het versturen van de nieuwsbrief in samenwerking met RWS en het ministerie van I en W informeren wij het werkveld over de nieuwe dan wel aangepaste werkafspraak.
-
-<b>Nieuwe producten inclusief release</b> <b>notes</b> 
-
-Wijzigingen in de beheerobjecten worden bekendgemaakt op de Geonovum website en in de Geonovum nieuwsbrief. Bovendien vermeldt de nieuwsbrief van het register Externe Veiligheid ook de ontwikkelingen rondom het Informatiemodel.
+De route van indienen van klachten is bij Geonovum in principe via de helpdesk van de betreffende standaard. Dit is de manier om met Geonovum in contact te komen, vragen te stellen en wensen en eisen met betrekking tot de standaard kenbaar te maken. Door het via een helpdesk te laten verlopen registreren het type issues. De helpdesk route voor zowel vragen, wijzigingsverzoeken, klachten en incidenten geeft een zo compleet mogelijk overzicht in het contact met de gebruikers van de standaarden, over de standaarden.
 
