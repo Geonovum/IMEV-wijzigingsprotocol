@@ -11,33 +11,3 @@ Het opstellen en gebruik van het protocol is onderdeel van het beheerproces van 
 Wijzigingen in het IMEV worden niet zomaar doorgevoerd; voor de ene gebruiker van het model zal de wijzing gering zijn, voor de ander kan het grote gevolgen hebben. Daar houden wij rekening mee. De gebruikersgroepen van de standaarden en andere betrokkenen in het wijzigingsproces zijn vastgelegd, evenals de belangrijkste taken en verantwoordelijkheden en de momenten waarop zij betrokken zijn in dit proces.
 
 We starten dit wijzigingsprotocol met een samenvatting en duiden de gehanteerde begrippen. In <a href='#gebruik-van-het-wijzigingsprotocol'>Hoofdstuk 3<a></a> zetten we het gebruik van het wijzigingsprotocol uiteen met onder andere uitgangspunten en betrokkenen. <a href='#wijzigingsproces'>Hoofdstuk 4<a></a> beschrijft vervolgens de stappen in het wijzigingsproces. Met behulp van tussentijdse werkafspraken weten de gebruikers van de standaard hoe zij de standaard – in afwachting van een formele wijziging– moeten toepassen; dit komt in <a href='#tussentijdse-werkafspraken'>Hoofdstuk 5<a></a> aan de orde. Wanneer een nieuwe versie van het informatiemodel wordt opgeleverd, ondersteunen we bij de implementatie daarvan <a href='#implementatie-ondersteuning'>Hoofdstuk 6<a></a>. In <a href='#escalatie-en-klachtenprocedure'>Hoofdstuk 7<a></a> is beschreven hoe we handelen in het geval van escalatie. In de <a href='#overzicht-status-van-wijzigingsverzoeken'>bijlage<a></a> is tot slot een overzicht van de statussen van wijzigingsverzoeken opgenomen.
-
-TO DO
- 
-Het Informatiemodel Externe Veiligheidsrisico’s bestaat uit de volgende producten:  
-<ul><li>Een gegevenswoordenboek;</li>
-<li>Een beschrijving van het Informatiemodel;</li>
-<li>Het Informatiemodel in voor de software leesbare vorm (UML); </li>
-<li>Het Informatiemodel in voor de mens leesbare vorm (HTML).</li>
-<li>Het Informatiemodel bestaat uit een basismodel en ruim 45 submodellen.</li>
-</ul>
- 
- 
-Geonovum beheert niet alleen het Informatiemodel maar ook <i>de bijkomende</i> beheerobjecten.
-
-    Overzicht beheerobjecten
-
-<ul><li>Html document op docs.geostandaarden.nl/IMEV met daarin:<ul><li>Het IMEV: het basismodel en de 45 sub modellen</li>
-<li>Het gegevenswoordenboek</li>
-</ul>
-
-</li>
-<li><i>Lijst extra modelregels over relatie activiteiten en contouren</i> <i>(</i><i>Excel</i><i>)</i></li>
-<li><i>De JSON voorbeeldbestanden</i></li>
-<li><i>De JSON-schema’s</i></li>
-<li><i>Het EAP-bestand met UML diagrammen</i></li>
-<li><i>Validatieregels als onderdeel van de specificaties van de validator</i><i>.</i> </li>
-</ul>
-
-M
-
