@@ -12,29 +12,19 @@ De escalatieprocedure wordt niet gebruikt om reguliere wijzigingen sneller door 
 
 Er wordt geen vast proces gegeven om de escalatieprocedure te doorlopen, omdat verschillende situaties wellicht tot een verschillende wijze van handelen moeten leiden. In plaats daarvan zijn onderstaande sturende principes leidend om verantwoordelijkheden te duiden.
 
-<ul><li><b>Signalering</b></li>
-</ul>
-
+<b>Signalering</b>
 Uit het werkveld kunnen signalen ontstaan dat er met spoed iets gewijzigd zou moeten worden. Het is vooraf niet aan te geven uit welke kanalen deze geluiden zullen ontstaan. Het is wel van belang om de rol van Geonovum te onderkennen als antennefunctie voor het werkveld. In ieder geval zullen deze signalen op enig moment de opdrachtgever of Geonovum bereiken, en op dat moment zal er overleg gevoerd worden over deze signalen. 
 
-<ul><li><b>Overleg</b></li>
-</ul>
-
+<b>Overleg</b>
 Bij de besluitvorming binnen de escalatieprocedure wordt er in principe overleg gevoerd tussen de opdrachtgever voor het beheer van de betreffende standaard en Geonovum. Beide partijen raadplegen de betrokkenen daar waar nodig.
 
-<ul><li><b>Besluitvorming</b></li>
-</ul>
-
+<b>Besluitvorming</b>
 De beoordeling of de escalatieprocedure van toepassing is, wordt genomen door de voorzitter het gremium dat de beheeropdracht monitort, dan wel de contactpersoon bij de opdrachtgever. Ook het besluit welke wijzigingen er precies doorgevoerd moeten worden en op welke manier, wordt genomen door dezelfde persoon.
 
-<ul><li><b>Coördinatie</b></li>
-</ul>
-
+<b>Coördinatie</b>
 De coördinatie tijdens de escalatieprocedure wordt uitgevoerd door de voorzitter het gremium dat de beheeropdracht monitort, dan wel de contactpersoon bij de opdrachtgever. 
 
-<ul><li><b>Communicatie met het werkveld</b></li>
-</ul>
-
+<b>Communicatie met het werkveld</b>
 De communicatie met het werkveld wordt uitgevoerd door Geonovum. Als beheerder van de betreffende standaard wordt verwacht dat Geonovum het meest directe contacten heeft met het werkveld.
 
 #### Klachtenafhandeling
