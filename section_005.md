@@ -9,7 +9,7 @@ Als er een fout of probleem wordt geconstateerd, zal er altijd geruime tijd over
 <li>In de standaarden is iets wel mogelijk, maar niet verplicht, terwijl dit wel sterk gewenst is.</li>
 </ul>
 
-In dit soort gevallen zal Geonovum na consultatie van softwareleveranciers, gebruikersgroep en ketenoverleg een werkafspraak publiceren over hoe er in afwachting van formele reparatie moet worden omgegaan met een geconstateerd probleem. Zo’n werkafspraak heeft de formele status van een advies van Geonovum aan de gebruikers van het IMEV. De werkafspraak vervangt niet de <i>in</i> <i>gebruik</i> zijnde versie van IMEV, maar geldt wel werkwijze in afwachting van reparatie als een onderdeel van het reguliere beheer.
+In dit soort gevallen zal Geonovum na consultatie van softwareleveranciers, gebruikersgroep en ketenoverleg een werkafspraak publiceren over hoe er in afwachting van formele reparatie moet worden omgegaan met een geconstateerd probleem. Zo’n werkafspraak heeft de formele status van een advies van Geonovum aan de gebruikers van het IMEV. De werkafspraak vervangt niet de <i>in</i> <i>gebruik</i> zijnde versie van IMEV, maar geldt wel als werkwijze in afwachting van reparatie van een onderdeel van het reguliere beheer.
 
 Voor bovengenoemde voorbeelden zouden de werkafspraken er resp. als volgt uit kunnen zien:
 
