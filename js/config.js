@@ -5,7 +5,7 @@ var respecConfig =
   specStatus: "GN-WV",
   specType: "BD",
   license: "cc-by-nd",
-  publishDate: "2022-08-17",
+  publishDate: "2022-11-28",
   authors: [
     {
       name: "Tyora van der Meulen",
@@ -25,5 +25,5 @@ var respecConfig =
   github: "https://github.com/Geonovum/IMEV-Wijzigingsprotocol",
   issueBase: "https://github.com/Geonovum/IMEV-Wijzigingsprotocol/issues",
   edDraftURI: "https://geonovum.github.io/IMEV-wijzigingsprotocol/",
-  generatedSubtitle: "Werkversie 17 augustus 2022"
+  generatedSubtitle: "Werkversie 28 november 2022"
 }
