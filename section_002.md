@@ -1,21 +1,23 @@
 ## Gebruik van het wijzigingsprotocol 
 
-Het protocol schrijft een vast stramien voor het wijziging van de standaard voor. Het protocol benoemt de fasen en op te leveren resultaten. Belangrijk zijn de randvoorwaarden en uitgangspunten. De gebruikers van het Informatiemodel betrekken wij bij het wijzigen van het model. We zetten op en rij welke betrokkenen er zijn. 
+Het protocol schrijft een vast stramien voor het wijzigen van de standaard voor. Het protocol benoemt de fasen en de op te leveren resultaten. Belangrijk zijn de randvoorwaarden en uitgangspunten. De gebruikers van het informatiemodel Externe Veiligheidsrisico’s betrekken wij bij het wijzigen van het model. We zetten op en rij welke betrokkenen er zijn.
 
 ### Protocol versus proces
 
-De titel van dit document geeft aan dat het hier om een protocol gaat. Toch wordt in dit document ook gesproken over processen. Een wijzigingsprotocol beschrijft de manier waarop wijzigingen in het Informatiemodel Externe Veiligheidsrisico’s plaatsvinden: het wijzigingsproces. In het protocol zijn basisbegrippen en uitgangspunten uiteengezet voor het wijzigingsproces, bijvoorbeeld wat onder nieuwe en volgende versies verstaan wordt en wanneer deze verwacht mogen worden. De daadwerkelijke planning van een nieuwe versie wordt in overleg met de opdrachtgever en eigenaar van de standaard, het ministerie van Infrastructuur en Waterstaat, de eigenaar en beheerder van de het Register Externe Veiligheid (REV) jaarlijks opgesteld. 
+De titel van dit document geeft aan dat het hier om een protocol gaat. Toch wordt in dit document ook gesproken over processen. Een <b>wijzigingsprotocol </b>beschrijft de <i>manier waarop</i> wijzigingen in het Informatiemodel Externe Veiligheidsrisico’s plaatsvinden: het <b>wijzigingsproces</b>. In het protocol zijn basisbegrippen en uitgangspunten uiteengezet voor het wijzigingsproces, bijvoorbeeld wat onder nieuwe en volgende versies verstaan wordt en wanneer deze verwacht mogen worden. De daadwerkelijke planning van een nieuwe versie wordt in overleg met de opdrachtgever en eigenaar van de standaard, het ministerie van Infrastructuur en Waterstaat, en de beheerder van de Register Externe Veiligheid (REV) jaarlijks opgestelt.
 
 Met behulp van een wijzigingsprotocol voor het Informatiemodel Externe Veiligheidsrisico’s geeft Geonovum:
 
 <ul><li>inzicht in het behandel- en besluitproces dat ten grondslag ligt aan het versiebeheer;</li>
-<li>inzicht in de aangeboden wijzigingsvoorstellen;</li>
+<li>inzicht in de wijzigingsverzoeken;</li>
+<li> inzicht in een voorgestelde wijziging van de standaard;</li>
 <li>stabiliteit aan de standaard;</li>
 <li>continuïteit aan de standaard;</li>
 <li>een eenduidige aanpak.</li>
 </ul>
 
 ### Releasebeleid  
+#### Nieuwe versie van de standaard
 
 Een release van een standaard is een nieuwe uitgave van de standaard. De nieuwe release kenmerkt zich ten opzichte van de oude versie door een hoger versienummer. Een release betreft 1 product van een standaard of is een bundel van meerdere producten van de betreffende standaard. Bij de release is ieder product is voorzien een nieuw versienummer conform X.Y.Z schrijfwijze (zie hierna) en een status.
 
@@ -31,9 +33,9 @@ Elk product van onze standaarden voorzien wij van een versienummer. Dit doen wij
 
 #### Oudere versie van een standaard
 
-Na het uitbrengen van een nieuwe versie van een bij Geonovum in beheer zijnde standaard blijven oudere versies beschikbaar en zijn vindbaar via de Geonovum website en de registers (de <a href='https://definities.geostandaarden.nl' target='_blank'>conceptenbibliotheek</a>, het <a href='https://register.geostandaarden.nl' target='_blank'>technisch register</a> en het <a href='https://docs.geostandaarden.nl' target='_blank'>documentenregister</a>). Een nieuwe versie dwingt daarmee geen directe overstap af bij de gebruikers, tenzij anders (bijvoorbeeld wettelijk) bepaald. Na het uitbrengen van de nieuwe versie van een standaard wordt de ontwikkeling van de oude versie stopgezet.
+Na het uitbrengen van een nieuwe versie van een bij Geonovum in beheer zijnde standaard blijven oudere versies beschikbaar en zijn vindbaar via de <a href='https://www.geonovum.nl/geo-standaarden/informatiemodel-externe-veiligheid' target='_blank'>Geonovum website</a> en de registers (de <a href='https://definities.geostandaarden.nl' target='_blank'>conceptenbibliotheek</a>, het <a href='https://register.geostandaarden.nl' target='_blank'>technisch register</a> en het <a href='https://docs.geostandaarden.nl' target='_blank'>documentenregister</a>). Een nieuwe versie dwingt daarmee geen directe overstap af bij de gebruikers, tenzij anders (bijvoorbeeld wettelijk, bij ministeriële regeling) bepaald. Na het uitbrengen van de nieuwe versie van een standaard wordt de ontwikkeling van de oude versie stopgezet.
 
-De SemVer-methodiek schrijft backwards compatibility voor op het Y-niveau. Na het uitbrengen van een nieuwe versie van een bij Geonovum in beheer zijnde standaard blijven oudere versies beschikbaar en zijn vindbaar via de Geonovum website. Een nieuwe versie dwingt daarmee geen directe overstap af bij de gebruikers, tenzij anders (bijvoorbeeld wettelijk) bepaald. Na het uitbrengen van de nieuwe versie van een standaard wordt de ontwikkeling van de oude versie stop gezet.
+De SemVer-methodiek schrijft backwards compatibility voor op het Y-niveau. Na het uitbrengen van een nieuwe versie van een bij Geonovum in beheer zijnde standaard blijven oudere versies beschikbaar en zijn vindbaar via de <a href='https://www.geonovum.nl/geo-standaarden/informatiemodel-externe-veiligheid' target='_blank'>Geonovum website</a>. Een nieuwe versie dwingt daarmee geen directe overstap af bij de gebruikers, tenzij anders (bijvoorbeeld wettelijk) bepaald. Na het uitbrengen van de nieuwe versie van een standaard wordt de ontwikkeling van de oude versie stop gezet.
 
 Voor het onderhoud en de ondersteuning van een oude versie van een standaard gelden de volgende uitgangspunten:
 
@@ -48,11 +50,11 @@ In paragraaf <a href='#_Ref503261402'>3.2<a></a> zijn de X, Y en Z wijzigingen u
 
 <b>Proces voor X en Y wijzigingen</b>
 
-Deze vergen volledige afstemming en het doorlopen van alle in paragraaf <a href='#fasen-en-resultaten'>3.4<a></a> beschreven fasen: Inhoud, Toetsing, Besluitvorming en Implementatie. Voor de inhoudelijke fase wordt een werkgroep gestart met daarin vertegenwoordiging van belangrijke stakeholders/gebruikers. Het resultaat van de werkgroep wordt tijdens het overleg van de Adviesgroep besproken. De Adviesgroep adviseert de functioneel beheerder. Besluitvorming over vaststelling van een nieuwe versie van het model vindt plaats in overleg tussen functioneel en operationeel beheerder. Indien nodig wordt met softwareleveranciers een convenant afgesloten of een bestaand convenant uitgebreid, waarin wordt afgesproken dat zij (onderdelen van) de standaard gaan ondersteunen.
+Deze vergen volledige afstemming en het doorlopen van alle in paragraaf <a href='#fasen-en-resultaten'>2.4<a></a> beschreven fasen: Inhoud, Toetsing, Besluitvorming en Implementatie. Voor de inhoudelijke fase wordt een werkgroep gestart met daarin vertegenwoordiging van belangrijke stakeholders/gebruikers. Het resultaat van de werkgroep wordt tijdens het overleg van de Adviesgroep besproken. De Adviesgroep adviseert de opdrachtgever. Besluitvorming over vaststelling van een nieuwe versie van het model vindt plaats door IenW. 
 
 <b>Proces voor Z wijzigingen</b>
 
-Deze dienen zo snel als mogelijk uitgevoerd te worden. De inhoudelijke fase wordt door een medewerker van Geonovum gedaan. Toetsing vindt plaats d.m.v. werksessies met de werkgroep. Besluitvorming vindt plaats in afstemming met het RIVM. Implementatie vindt plaats door het publiceren van de wijziging op de website van Geonovum.
+Deze dienen zo snel als mogelijk uitgevoerd te worden. De inhoudelijke fase wordt door een medewerker van Geonovum gedaan. Toetsing vindt plaats door middel van werksessies met de werkgroep.  Implementatie vindt plaats door het publiceren van de wijziging op de website van Geonovum.
 
 ### <a name='_Ref503261432'></a>Fasen en resultaten
 
@@ -71,11 +73,11 @@ De fase Toetsing vormt een brug tussen de inhoud, besluitvorming en de implement
 
 <b>Besluitvorming</b>
 
-Bij Besluitvorming wordt besloten om de gewijzigde specificatie vast te stellen en te publiceren. Afhankelijk van het type wijziging (X, Y of Z, zie paragraaf <a href='#proces-varianten'>3.3<a></a>), besluit het ministerie dan wel de functioneel beheerder.
+Bij Besluitvorming wordt besloten om de gewijzigde specificatie vast te stellen en te publiceren. Afhankelijk van het type wijziging (X, Y of Z, zie paragraaf <a href='#proces-varianten'>3.3<a></a>), besluit het ministerie van IenW.
 
 <b>Implementatie</b>
 
-Het in gebruik nemen van het Informatiemodel in de praktijk staat centraal in deze fase. Hiervoor leveren we verschillende technische bestanden op, zoals implementatiebestanden, voorbeeldbestanden en voorbeeldberichten. Deze bestanden ondersteunen softwareleveranciers bij de implementatie van de standaard in hun software. Beheerders van de voorziening/ het register e.d. nemen het Informatiemodel in gebruik. Wij ondersteunen de implementatie bovendien door de werking van het Informatiemodel toe te lichten op bijvoorbeeld tijdens bijeenkomsten en bijvoorbeeld ‘inloopspreekuren’ voor de softwareleveranciers. Resultaat van deze fase is dat de gebruikers data kunnen maken en uitwisselen conform de nieuwe standaard. In <a href='#tussentijdse-werkafspraken'>Hoofdstuk 5<a></a> lichten we de implementatie verder toe.
+Het in gebruik nemen van het Informatiemodel in de praktijk staat centraal in deze fase. Hiervoor leveren we verschillende technische bestanden op, zoals implementatiebestanden, voorbeeldbestanden en voorbeeldberichten. Deze bestanden ondersteunen softwareleveranciers bij de implementatie van de standaard in hun software. Beheerders van de voorziening/ het register e.d. nemen het informatiemodel in gebruik. Wij ondersteunen de implementatie bovendien door de werking van het informatiemodel toe te lichten op bijvoorbeeld tijdens bijeenkomsten en bijvoorbeeld ‘inloopspreekuren’ voor de softwareleveranciers. Resultaat van deze fase is dat de gebruikers data kunnen maken en uitwisselen conform de nieuwe standaard. In <a href='#tussentijdse-werkafspraken'>Hoofdstuk 5<a></a> lichten we de implementatie verder toe.
 
 ### Betrokkenen
 
@@ -88,7 +90,7 @@ De volgende groepen en instanties (actoren) zijn betrokken bij het wijzigingspro
 <li>Ministerie van Infrastructuur en Waterstaat</li>
 </ul>
 
-<b>Gebruikersgroep</b> <b>en</b> <b>softwareleveranciers</b>
+<b>Gebruikersgroep en softwareleveranciers</b>
 
 Nieuwe versies van het Informatiemodel bereidt Geonovum voor in samenwerking met de Gebruikersgroep met daarin de Kernwerkgroep en het Leveranciersoverleg. We streven naar een unanieme instemming met de standaard. Dit versterkt het draagvlak en zorgt voor een betere implementatie van het Informatiemodel in het werkveld. 
 
