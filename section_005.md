@@ -4,16 +4,14 @@ Het in gebruik nemen van (een volgende versie van ) een standaard staat centraal
 
 ### Technische bestanden
 
-Om softwareleveranciers en gebruikers te ondersteunen bij de implementatie van een nieuwe versie van de standaard, leveren wij verschillende bestanden en documentatie op:
+Om de beheerders van het Register Externe Veiligheidsrisico's (REV), de softwareleveranciers en andere gebruikers van de standaard te ondersteunen bij de implementatie van een nieuwe versie van de standaard, leveren wij verschillende bestanden en documentatie op:
 
 <ul><li>Implementatiebestanden;</li>
 <li>Voorbeeldbestanden;</li>
 <li>Voorbeeldberichten.</li>
 </ul>
 
-Schema’s en Schematron (validatieregels) zijn voorbeelden van implementatiebestanden die als onderdeel van standaarden door Geonovum worden opgeleverd. Het kan hier ook gaan om implementatiebestanden voor visualisatieregels en iconen.
-
-Voorbeeldbestanden en voorbeeldberichten kunnen worden gebruikt voor het testen van applicaties.
+Schema’s en Schematron (validatieregels) zijn voorbeelden van implementatiebestanden die als onderdeel van standaarden door Geonovum worden opgeleverd. Het kan hier ook gaan om implementatiebestanden voor visualisatieregels en iconen. Voorbeeldbestanden en voorbeeldberichten kunnen worden gebruikt voor het testen van applicaties.
 
 ###         Validatie en certificatie
 
@@ -33,7 +31,7 @@ Het hele wijzigingsproces staat of valt met een goede communicatie. Onder goede 
 
 <i>Website</i><i>(s)</i>
 
-De actuele vigerende versie van het Informatiemodel is via het <a href='https://docs.geostandaarden.nl/cvgg/img/' target='_blank'>documentenregister van Geonovum</a> beschikbaar.
+De actuele vigerende versie van het Informatiemodel is via het <a href='https://docs.geostandaarden.nl/imev/imev/' target='_blank'>documentenregister van Geonovum</a> beschikbaar.
 
 <i>Consultatie</i>
 
@@ -45,4 +43,5 @@ De werkafspraken die bepalen hoe er in de tussentijd moet worden omgegaan met ge
 
 <i>Nieuwe producten inclusief releasenotes</i>
 
-Wijzigingen in het model worden bekendgemaakt op de Geonovum website en in de nieuwsbrief van het REV.
+Wijzigingen in het model worden bekendgemaakt op de Geonovum website en in de nieuwsbrief van het REV. Ook zijn ze raadplegen als releasenotes in het <a href='https://docs.geostandaarden.nl/imev/imev/#bijlage-1-release-notes' target='_blank'>informatiemodel</a>. 
+
