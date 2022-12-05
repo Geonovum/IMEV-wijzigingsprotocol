@@ -25,11 +25,11 @@ In dit wijzigingsprotocol staan de sturende principes achter het wijzigingsproce
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><b>Expertgroep</b>
+<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><b>Expert- en gebruikersgroepen</b>
 
 
 </td>
-<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>De expertgroep verzorgt input voor de de impactanalyses van de wijzigingsverzoeken.
+<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>De Expert- en gebruikersgroepen leveren input voor de de impactanalyses van de wijzigingsverzoeken aan het beheerteam van IMEV (Geonovum).
 
 </td>
 </tr>

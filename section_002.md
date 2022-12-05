@@ -46,7 +46,7 @@ Voor het onderhoud en de ondersteuning van een oude versie van een standaard gel
 
 ### <a name='_Ref482110995'></a>Proces varianten
 
-In paragraaf <a href='#_Ref503261402'>3.2<a></a> zijn de X, Y en Z wijzigingen uitgelegd. Voor wijzigingen kent Geonovum twee proces varianten. Eén voor X en Y wijzigingen en één voor Z wijzigingen.
+In paragraaf <a href='#releasebeleid'>2.2<a></a> zijn de X, Y en Z wijzigingen uitgelegd. Voor wijzigingen kent Geonovum twee proces varianten. Eén voor X en Y wijzigingen en één voor Z wijzigingen.
 
 <b>Proces voor X en Y wijzigingen</b>
 
@@ -73,24 +73,22 @@ De fase Toetsing vormt een brug tussen de inhoud, besluitvorming en de implement
 
 <b>Besluitvorming</b>
 
-Bij Besluitvorming wordt besloten om de gewijzigde specificatie vast te stellen en te publiceren. Afhankelijk van het type wijziging (X, Y of Z, zie paragraaf <a href='#proces-varianten'>3.3<a></a>), besluit het ministerie van IenW.
+Bij Besluitvorming wordt besloten om de gewijzigde specificatie vast te stellen en te publiceren. Afhankelijk van het type wijziging (X, Y of Z, zie paragraaf <a href='#proces-varianten'>2.3<a></a>), besluit het ministerie van IenW.
 
 <b>Implementatie</b>
 
-Het in gebruik nemen van het Informatiemodel in de praktijk staat centraal in deze fase. Hiervoor leveren we verschillende technische bestanden op, zoals implementatiebestanden, voorbeeldbestanden en voorbeeldberichten. Deze bestanden ondersteunen softwareleveranciers bij de implementatie van de standaard in hun software. Beheerders van de voorziening/ het register e.d. nemen het informatiemodel in gebruik. Wij ondersteunen de implementatie bovendien door de werking van het informatiemodel toe te lichten op bijvoorbeeld tijdens bijeenkomsten en bijvoorbeeld ‘inloopspreekuren’ voor de softwareleveranciers. Resultaat van deze fase is dat de gebruikers data kunnen maken en uitwisselen conform de nieuwe standaard. In <a href='#tussentijdse-werkafspraken'>Hoofdstuk 5<a></a> lichten we de implementatie verder toe.
+Het in gebruik nemen van het Informatiemodel in de praktijk staat centraal in deze fase. Hiervoor leveren we verschillende technische bestanden op, zoals implementatiebestanden, voorbeeldbestanden en voorbeeldberichten. Deze bestanden ondersteunen softwareleveranciers bij de implementatie van de standaard in hun software. Beheerders van de voorziening/ het register e.d. nemen het informatiemodel in gebruik. Wij ondersteunen de implementatie bovendien door de werking van het informatiemodel toe te lichten op bijvoorbeeld tijdens bijeenkomsten en bijvoorbeeld ‘inloopspreekuren’ voor de softwareleveranciers. Resultaat van deze fase is dat de gebruikers data kunnen maken en uitwisselen conform de nieuwe standaard. In <a href='#implementatie-ondersteuning'>Hoofdstuk 5<a></a> lichten we de implementatie verder toe.
 
 ### Betrokkenen
 
 De volgende groepen en instanties (actoren) zijn betrokken bij het wijzigingsproces van het Informatiemodel:
 
 <ul><li>Aviesgroep</li>
-<li>Expertgroep</li>
+<li>Expert- en gebruikersgroepen</li>
 <li>Softwareleveranciers</li>
 <li>Geonovum</li>
 <li>Ministerie van Infrastructuur en Waterstaat</li>
 </ul>
 
-<b>Gebruikersgroep en softwareleveranciers</b>
-
-Nieuwe versies van het Informatiemodel bereidt Geonovum voor in samenwerking met de Gebruikersgroep met daarin de Kernwerkgroep en het Leveranciersoverleg. We streven naar een unanieme instemming met de standaard. Dit versterkt het draagvlak en zorgt voor een betere implementatie van het Informatiemodel in het werkveld. 
+Nieuwe versies van het Informatiemodel bereidt Geonovum voor in samenwerking met de expert- en gebruikersgroepen en softwareleveranciers. We streven naar een unanieme instemming met de standaard. Dit versterkt het draagvlak en zorgt voor een betere implementatie van het informatiemodel in het werkveld. 
 
