@@ -1,6 +1,6 @@
 ## Wijzigingsproces
 
-De aanleiding voor een wijzigingsproces is gebaseerd op meldingen: de wensen en gevonden fouten in het informatiemodel externe veiligheidsrisico’s, die aanleiding zijn om de standaard te vernieuwen. Samen vormen zij het wijzigingsvoorstel. Geonovum neemt als beheerder het initiatief om een wijzigingsproces te starten, de stappen in het proces zijn conform het wijzigingsprotocol.
+De aanleiding voor een wijzigingsproces is gebaseerd op meldingen: de wensen en gevonden fouten in het informatiemodel externe Veiligheid, die aanleiding zijn om de standaard te vernieuwen. Samen vormen zij het wijzigingsvoorstel. Geonovum neemt als beheerder het initiatief om een wijzigingsproces te starten, de stappen in het proces zijn conform het wijzigingsprotocol.
 
 ### Wijzigingenbeheer
 
