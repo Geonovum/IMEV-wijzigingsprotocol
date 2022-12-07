@@ -87,9 +87,10 @@ De volgende groepen en instanties (actoren) zijn betrokken bij het wijzigingspro
 <li>Expert- en gebruikersgroepen</li>
 <li>Softwareleveranciers</li>
 <li>Geonovum</li>
+<li>Rijkswaterstaat</li>
 <li>Ministerie van Infrastructuur en Waterstaat</li>
 </ul>
 
-Nieuwe versies van het Informatiemodel bereidt Geonovum voor in samenwerking met de expert- en gebruikersgroepen en softwareleveranciers. We streven naar een unanieme instemming met de standaard. Dit versterkt het draagvlak en zorgt voor een betere implementatie van het informatiemodel in het werkveld. 
+Nieuwe versies van het informatiemodel bereidt Geonovum voor in samenwerking met de beheerder van het REV (Rijkswaterstaat), expert- en gebruikersgroepen en softwareleveranciers. We streven naar een unanieme instemming met de standaard. Dit versterkt het draagvlak en zorgt voor een betere implementatie van het informatiemodel in het werkveld. 
 Het wijzigingsvoorstel (de bundeling van wijzigingsverzoeken) leggen wij voor aan de Adviesgroep IMEV. In de adviesgroep wordt niet meer de inhoud van het wijzigingsvoorstel besproken; dit ligt bij het beheerteam IMEV van Geonovum die het wijzigingsvoorstel voorbereidt. De adviesgroep toetst het proces, waaronder dat het wijzigingsvoorstel langs het in de bronhouders- en softwareleveranciers overleggen is toegelicht en feedback is opgehaald. Het wijzigingsvoorstel wordt altijd voorzien van een oplegnotitie zoals dat nu het geval is,
 inclusief of er aandachtspunten zijn. 
