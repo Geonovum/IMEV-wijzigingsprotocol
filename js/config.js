@@ -2,10 +2,10 @@ var respecConfig =
 {
   subtitle: "Informatiemodel Externe Veiligheid",
   pubDomain: "imev",
-  specStatus: "GN-WV",
+  specStatus: "GN-VV",
   specType: "BD",
   license: "cc-by-nd",
- // publishDate: "2022-12-12",
+  publishDate: "2023-02-08",
   authors: [
     {
       name: "Tyora van der Meulen",
@@ -30,7 +30,7 @@ var respecConfig =
   github: "https://github.com/Geonovum/IMEV-Wijzigingsprotocol",
   issueBase: "https://github.com/Geonovum/IMEV-Wijzigingsprotocol/issues",
   edDraftURI: "https://geonovum.github.io/IMEV-wijzigingsprotocol/",
-  generatedSubtitle: "Consultatieversie 12 december 2022",
+  generatedSubtitle: "Vastgestelde versie 8 februari 2023",
   previousPublishDate: "2022-12-12",  	    
   previousMaturity: "GN-CV", 
 }
