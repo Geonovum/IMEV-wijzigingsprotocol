@@ -21,6 +21,7 @@ Dit document wordt bijgewerkt op ervaring en inzichten bij het wijzigen van het 
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='7DEFEE46'>november 2025</p></td>
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='7894FB6C'>Werkversie</p></td>
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='067E5227'>- Actualisatie wijzigingsprotocol op basis van 1) het in 2025 vernieuwde [IMEV beheerplan](https://docs.geostandaarden.nl/imev/beheerplan/), 2) voorbereiding inhoudelijke actualisatie eerste 5 hoofdstukken IMEV, 3) aansluiting op de werkwijze in het (generieke) [wijzigingsprotocol van de geo-standaarden](https://geonovum.github.io/Geo-standaarden-wijzigingsprotocol/)  
+
 - Naast actualisatie en tekstuele aanpassingen zijn de wijzigingen: Samenvatting toegevoegd; Hoofdstuk 2 – consultatie toegevoegd en procesvarianten aangesloten op ervaring en praktijk van de laatste 2 jaar, lijst van betrokkenen is voorzien van een visualisatie en aansluitende toelichting; Hoofdstuk 3 – fasen in het wijzigingsproces van hoofdstuk 2 naar 3 verplaatst; Hoofdstuk 5 – herschreven, Hoofdstuk 7 – status van wijzigingsverzoeken is vervallen.
 </p></td>
 </tr>
