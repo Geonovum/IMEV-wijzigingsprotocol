@@ -75,7 +75,7 @@ De volgende groepen en instanties (actoren) zijn betrokken bij het wijzigingspro
 <li>Ministerie van Infrastructuur en Waterstaat</li>
 </ul>
 
-<figure style='hight: 75%;width: 100%;'><a name='_Ref503260625'></a><img src='media/image5.png' alt='media/image5.png'></img>
+<figure style='hight: 50%;width: 100%;'><a name='_Ref503260625'></a><img src='media/image5.png' alt='media/image5.png'></img>
 <figcaption><a name='_Ref503260625'></a>Betrokkenen bij wijzigingen van het Informatiemodel Externe Veiligheid</figcaption></figure>
 
 Het IMEV-beheerteam bij <b>Geonovum</b> ontvangt wijzigingsverzoeken ter verbetering van het informatiemodel, gebruik en de bruikbaarheid van het informatiemodel. De wijzigingsverzoeken worden getoetst en van baten en impactanalyses voorzien, door de verzoeken te toetsen bij experts, softwareleveranciers en de beheerder van het REV. 
