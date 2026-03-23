@@ -1,23 +1,40 @@
 ## Wijzigingsproces
 
-De aanleiding voor een wijzigingsproces is gebaseerd op meldingen: de wensen en gevonden fouten in het informatiemodel externe Veiligheid, die aanleiding zijn om de standaard te vernieuwen. Samen vormen zij het wijzigingsvoorstel. Geonovum neemt als beheerder het initiatief om een wijzigingsproces te starten, de stappen in het proces zijn conform het wijzigingsprotocol.
+De aanleiding voor een wijzigingsproces is gebaseerd op wijzigingsverzoeken die bij Geonovum binnenkomen via de IMEV helpdesk: de wensen en gevonden fouten in het informatiemodel externe Veiligheid, die aanleiding zijn om de standaard te vernieuwen. Samen vormen zij het wijzigingsvoorstel. Geonovum neemt als beheerder het initiatief om een wijzigingsproces te starten conform dit wijzigingsprotocol.  
 
-### Wijzigingenbeheer
+### Fasen in het wijzigingsproces
 
-Belanghebbenden kunnen meldingen (wijzigingsverzoeken), variërend van wensen tot aanpassing van en fouten in het informatiemodel, indienen via de <a href='mailto:imev@geonovum.nl' target='_blank'>helpdesk bij Geonovum</a>. Wij geven inzicht in de ontvangen wijzigingsverzoeken en de status van de wijzigingsverzoeken via de <a href='https://www.geonovum.nl/geo-standaarden/meldingen' target='_blank'>Geonovum website</a>. In het geval we een wijzigingsproces starten voor een nieuwe versie van de standaard, bundelen de verzoeken tot een wijzigingsvoorstel. Het wijzigingsprotocol beschrijft het wijzigingsproces en daarmee ook de procedure die het wijzigingsvoorstel doorloopt. 
-In <a href='#overzicht-status-van-wijzigingsverzoeken'>hoofdstuk 7<a></a> is een overzicht van de statussen van wijzigingsverzoeken. 
+Het volledige wijzigingsproces doorloopt de fasen Inhoud, Toetsing, Besluitvorming en Implementatie, zoals weergegeven in Figuur 2.
 
-Voor inzicht in de ontwikkeling, wijzigingsverzoeken en bijeenkomsten rondom van het Informatiemodel Externe Veiligheidsrisico's zetten we <a href='https://www.geonovum.nl/geo-standaarden/informatiemodel-externe-veiligheid' target='_blank'>Geonovum website</a> in.
+<figure style='width: 35%;'><a name='_Ref503260625'></a><img src='media/image3.png' alt='media/image3.png'></img>
+<figcaption><a name='_Ref503260625'></a>Fasen wijzigingsproces</figcaption></figure>
 
-Ontwikkelingen in de standaarden kunnen om verschillende redenen gewenst zijn, waaronder:
-<ul><li>geconstateerde fout in de standaard;</li>
-<li>wens tot wijziging, uitbreiding of vereenvoudiging uit de praktijk;</li>
-<li>aanpassing van de standaard door internationale ontwikkelingen.</li>
-</ul>
+**Inhoud**
+In de fase _Inhoud_ wordt voor iedere wijzigingsverzoek bepaald of deze wordt opgenomen in de nieuwe versie van de standaard of niet. 
+Dit wordt door Geonovum vastgelegd in de [issue-lijst](https://github.com/Geonovum/imev-werkomgeving/issues) op de Geonovum GitHub. 
+Voor wijzigingsverzoeken die worden meegenomen in de nieuwe versie van de standaard, worden baten en impact beschreven en oplossingen uitgewerkt. 
+Dit gebeurt in samenwerking met expert- en gebruikersgroepen, softwareleveranciers en de beheerder van het REV. 
+Afhankelijk van de [omvang van de wijziging](#nieuwe-versie-van-de-standaard) ten opzichte van de voorgaande versie is de groep van te raadplegen experts evenredig groter of kleiner.
 
-Met behulp van het wijzigingsprotocol wordt de geplande wijziging van het informatiemodel uitgevoerd. In de aanloop naar een wijziging van de standaarden bundelt Geonovum de meldingen, verzoeken tot wijziging, in een wijzigingsvoorstel. Het wijzigingsvoorstel vormt de basis om een nieuwe versie van een standaard op te stellen. Het beheerteam IMEV werkt daarvoor nauw samen met experts uit de praktijk. Met behulp van onder andere een publieke consultatie via de <a href='https://www.geonovum.nl/geo-standaarden/informatiemodel-externe-veiligheid' target='_blank'>Geonovum website</a> leggen wij het voorstel voor de nieuwe versie van een standaard voor aan de gebruikers van de standaard en vragen hun feedback. Het definitieve voorstel leggen wij voor aan de adviesgroep voor besluitvorming.  
+**Toetsing**
+De fase Toetsing vormt een brug tussen de inhoud, besluitvorming en de implementatie. 
+In deze fase wordt eenieder (in het geval van een [X of Y wijziging](#nieuwe-versie-van-de-standaard)) of een beperkte groep belanghebbenden (in het geval van een [Z wijziging](#nieuwe-versie-van-de-standaard)) uitgenodigd om zijn of haar visie te geven op het wijzigingsvoorstel voor de nieuwe versie van het IMEV. 
+Met deze [consultaties](#Consultatie) vragen wij de gebruikers van de standaard actief hun reactie te geven op het wijzigingsvoorstel. 
+Het wijzigingsvoorstel inclusief de terugkoppeling uit de consultatie wordt verwerkt als release candidate van het informatiemodel externe veiligheid.
 
-### Inzicht in het wijzigingsproces
+**Besluitvorming**
+Het wijzigingsvoorstel wordt inclusief de consulatie reacties voorgelegd aan de IMEV Adviesgroep. 
+Zij voorziet het wijzigingsvoorstel van advies. 
+Het Ministerie van Infrastructuur en Waterstaat besluit, afhankelijk van het type wijziging (X, Y of Z, zie paragraaf [2.4](#proces-varianten)), over de voorgestelde wijziging.
 
-De meldingen en wijzigingsverzoeken alsook (inter)nationale ontwikkelingen geven aanleiding tot de verdere ontwikkeling voor een standaard. Zij worden gebundeld in een wijzigingsvoorstel. Het wijzigingsprotocol geeft richting aan het wijzigingsproces dat dit wijzigingsvoorstel doorloopt. Het ministerie van IenW, besluit na advies van de adviesgroep over het wijzigingsvoorstel. Z-wijzigingen worden door Geonovum zelf besloten en uitgevoerd. <a name='_Ref396391640'></a><b><br/></b>
+**Implementatie**
+Het in gebruik nemen van het Informatiemodel in de praktijk staat centraal in deze fase. Hiervoor levert Geonovum op: 
+- _Modeldocument_
+- _JSON-schema_
+- _API specificaties_
+- _Voorbeeldbestanden-
+- _Het EAP-bestand met UML-diagrammen_
+Met deze producten, de beschikbare helpdesk en door middel van online en fysieke bijeenkomsten ondersteunen bij de implementatie van de nieuwe versie van het informatiemodel. Resultaat van deze fase is dat de gebruikers data kunnen maken en uitwisselen conform de nieuwe standaard. 
+In [Hoofdstuk 5](#Implementatie-ondersteuning) lichten we de implementatiefase verder toe.
+
 
