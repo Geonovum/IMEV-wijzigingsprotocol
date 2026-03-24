@@ -25,7 +25,7 @@ Het wijzigingsvoorstel inclusief de terugkoppeling uit de consultatie wordt verw
 **Besluitvorming**  
 Het wijzigingsvoorstel wordt inclusief de consulatie reacties voorgelegd aan de IMEV Adviesgroep. 
 Zij voorziet het wijzigingsvoorstel van advies. 
-Het Ministerie van Infrastructuur en Waterstaat besluit, afhankelijk van het type wijziging (X, Y of Z, zie paragraaf [2.4](#proces-varianten)), over de voorgestelde wijziging.
+Het Ministerie van Infrastructuur en Waterstaat besluit, afhankelijk van het type wijziging (X, Y of Z, zie paragraaf [2.3](#proces-varianten)), over de voorgestelde wijziging.
 
 **Implementatie**  
 Het in gebruik nemen van het Informatiemodel in de praktijk staat centraal in deze fase. Hiervoor levert Geonovum op: 
@@ -33,7 +33,8 @@ Het in gebruik nemen van het Informatiemodel in de praktijk staat centraal in de
 - _JSON-schema_
 - _API specificaties_
 - _Voorbeeldbestanden_
-- _Het EAP-bestand met UML-diagrammen_  
+- _Het EAP-bestand met UML-diagrammen_   
+
 Met deze producten, de beschikbare helpdesk en door middel van online en fysieke bijeenkomsten ondersteunen bij de implementatie van de nieuwe versie van het informatiemodel. Resultaat van deze fase is dat de gebruikers data kunnen maken en uitwisselen conform de nieuwe standaard. 
 In [Hoofdstuk 5](#Implementatie-ondersteuning) lichten we de implementatiefase verder toe.
 
