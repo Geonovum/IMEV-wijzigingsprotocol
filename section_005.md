@@ -10,7 +10,6 @@ Om de beheerders van het Register Externe Veiligheidsrisico's, de softwarelevera
 <li>JSON-schema;</li>
 <li>API-specificatie;</li>
 <li>Voorbeeldbestanden;</li>
-<li>Voorbeeldbestanden;</li>
 <li>Het EAP-bestand met UML-diagrammen.</li>
 </ul>
 
@@ -44,8 +43,7 @@ Opleiding en advies kunnen van toegevoegde waarde zijn bij de ondersteuning van 
 
 Het hele wijzigingsproces staat of valt met een goede communicatie. Onder goede communicatie wordt verstaan het tijdig leveren van de juiste informatie aan de juiste belanghebbenden. Dit betreft de proceskant alsook de producten die er worden opgeleverd.
 
-**Website**
-
+**Website**  
 Voor eenieder is via de [IMEV pagina](https://www.geonovum.nl/geo-standaarden/informatiemodel-externe-veiligheid-imev) op de Geonovum website is meest actuele informatie rondom het Informatiemodel Externe Veiligheid te raadplegen waaronder het informatiemodel. 
 Via de [nieuwsberichten](https://www.geonovum.nl/nieuws) op de Geonovum website informeren we het werkveld over nieuwe versies van het informatiemodel. 
 Deze nieuwsberichten worden ook geplaatste op de [REV website](https://www.registerexterneveiligheid.nl/nieuws). 
@@ -55,17 +53,15 @@ De publieke werk- en ontwikkelomgeving van de standaarden en de producten van de
 Geonovum gebruikt voor de standaarden en de producten van de standaarden die wij ontwikkelen en beheren zogenoemde [publicatieservers](https://docs.geostandaarden.nl/imev/beheerplan/#32D5C642). 
 Deze publicatieservers gelden als bronlocatie voor de producten zoals het informatiemodel en de technische implementatiebestanden van onze standaarden en zijn daarop vindbaar. 
 
-**Consultatie**
-
+**Consultatie**  
 Bij X-wijzigingen zal Geonovum de aanpassingen in het model in een publieke consultatie aan eenieder voorleggen, zie ook paragraaf [2.2.2](#consultatie).
 
-**Werkafspraken**
-
+**Werkafspraken**  
 De werkafspraken die bepalen hoe er in de tussentijd moet worden omgegaan met geconstateerde fouten en problemen (zie <a href='#tussentijdse-werkafspraken'>Hoofdstuk 4<a></a>). 
 De werkafspraken publiceren wij via de Geonovum website. 
 Door middel van nieuwsberichten op de website en het versturen van de nieuwsbrief in samenwerking met RWS (beheerder van het Register Externe Veiligheidsrisico's) en het ministerie van Infrastructuur en Waterstaat informeren wij het werkveld over de nieuwe dan wel aangepaste werkafspraak.
 
-**Nieuwe producten inclusief releasenotes**
-
-Wijzigingen in het model worden bekendgemaakt op de Geonovum website en in de nieuwsbrief van het REV. Ook zijn ze raadplegen als releasenotes in het <a href='https://docs.geostandaarden.nl/imev/imev/#bijlage-1-release-notes' target='_blank'>informatiemodel</a>. 
+**Nieuwe producten inclusief releasenotes**  
+Wijzigingen in het model worden bekendgemaakt op de Geonovum website en in de nieuwsbrief van het REV. 
+Ook zijn ze raadplegen als releasenotes in het <a href='https://docs.geostandaarden.nl/imev/imev/#bijlage-a-release-notes' target='_blank'>informatiemodel</a>. 
 

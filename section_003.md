@@ -6,7 +6,7 @@ De aanleiding voor een wijzigingsproces is gebaseerd op wijzigingsverzoeken die 
 
 Het volledige wijzigingsproces doorloopt de fasen Inhoud, Toetsing, Besluitvorming en Implementatie, zoals weergegeven in Figuur 2.
 
-<figure style='width: 35%;'><a name='_Ref503260625'></a><img src='media/image3.png' alt='media/image3.png'></img>
+<figure style='width: 100%;'><a name='_Ref503260625'></a><img src='media/image3.png' alt='media/image3.png'></img>
 <figcaption><a name='_Ref503260625'></a>Fasen wijzigingsproces</figcaption></figure>
 
 **Inhoud**  
@@ -36,7 +36,7 @@ Het in gebruik nemen van het Informatiemodel in de praktijk staat centraal in de
 - _Het EAP-bestand met UML-diagrammen_   
 
 Met deze producten, de beschikbare helpdesk en door middel van online en fysieke bijeenkomsten ondersteunen bij de implementatie van de nieuwe versie van het informatiemodel. Resultaat van deze fase is dat de gebruikers data kunnen maken en uitwisselen conform de nieuwe standaard. 
-In [Hoofdstuk 5](#Implementatie-ondersteuning) lichten we de implementatiefase verder toe.
+In [Hoofdstuk 5](#implementatie-ondersteuning) lichten we de implementatiefase verder toe.
 
 ### Inzicht in het wijzigingsproces
 De meldingen en wijzigingsverzoeken alsook (inter)nationale ontwikkelingen geven aanleiding tot de verdere ontwikkeling voor een standaard. Zij worden gebundeld in een wijzigingsvoorstel. Het wijzigingsprotocol geeft richting aan het wijzigingsproces dat dit wijzigingsvoorstel doorloopt. Het ministerie van IenW, besluit na advies van de adviesgroep over het wijzigingsvoorstel. Z-wijzigingen worden door Geonovum zelf besloten en uitgevoerd. 
