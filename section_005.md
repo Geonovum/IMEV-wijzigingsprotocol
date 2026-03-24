@@ -8,7 +8,7 @@ Om de beheerders van het Register Externe Veiligheidsrisico's, de softwarelevera
 
 <ul><li>Modeldocument;</li>
 <li>JSON-schema;</li>
-<li>API-specificatie;</li>
+<li>Voorbeeld API-specificatie;</li>
 <li>Voorbeeldbestanden;</li>
 <li>Het EAP-bestand met UML-diagrammen.</li>
 </ul>

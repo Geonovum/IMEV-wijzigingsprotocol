@@ -31,7 +31,7 @@ Het Ministerie van Infrastructuur en Waterstaat besluit, afhankelijk van het typ
 Het in gebruik nemen van het Informatiemodel in de praktijk staat centraal in deze fase. Hiervoor levert Geonovum op: 
 - _Modeldocument_
 - _JSON-schema_
-- _API specificaties_
+- _Voorbeeld API-specificatie_
 - _Voorbeeldbestanden_
 - _Het EAP-bestand met UML-diagrammen_   
 
