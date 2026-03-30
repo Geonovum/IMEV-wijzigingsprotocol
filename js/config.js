@@ -2,7 +2,7 @@ var respecConfig =
 {
   subtitle: "Informatiemodel Externe Veiligheid",
   pubDomain: "imev",
-  specStatus: "GN-DEF",
+  specStatus: "DEF",
   specType: "BD",
   license: "cc-by-nd",
   publishDate: "2026-03-30",
@@ -27,5 +27,5 @@ var respecConfig =
   edDraftURI: "https://geonovum.github.io/IMEV-wijzigingsprotocol/",
   generatedSubtitle: "Vastgestelde versie 8 februari 2023",
   previousPublishDate: "2023-02-08",  	    
-  previousMaturity: "GN-DEF", 
+  previousMaturity: "DEF", 
 }
