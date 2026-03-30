@@ -2,16 +2,11 @@ var respecConfig =
 {
   subtitle: "Informatiemodel Externe Veiligheid",
   pubDomain: "imev",
-  specStatus: "GN-WV",
+  specStatus: "GN-DEF",
   specType: "BD",
   license: "cc-by-nd",
-  //publishDate: "2023-02-08",
+  publishDate: "2026-03-30",
   authors: [
-    {
-      name: "Tyora van der Meulen",
-      company: "Geonovum",
-      companyURL: "https://www.geonovum.nl/"
-	},
 	{
       name: "Monique van Scherpenzeel",
       company: "Geonovum",
