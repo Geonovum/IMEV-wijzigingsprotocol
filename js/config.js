@@ -9,8 +9,8 @@ let respecConfig = {
   // specStatus: "wv",                 // Werkversie
   //specStatus: "cv",               // Consultatieversie
   //specStatus: "vv",               // Versie ter vaststelling
-  //specStatus: "def",              // Vastgestelde versie
-  specStatus: "def",            // Basis Document
+  specStatus: "def",              // Vastgestelde versie
+  //specStatus: "basis",            // Basis Document
 
   //-- specType is verplicht bij alle andere dan BASIS
   //specType: "NO",                 // Norm
@@ -49,7 +49,7 @@ let respecConfig = {
  
   //-- Voor dit blok geldt: alleen als er eerdere versies zijn en altijd beide aan/uit! 
   previousPublishDate: "2023-02-08",
-  previousMaturity: "DEF",
+  previousMaturity: "def",
 
   //-- Deze gebruiken we niet binnen Geonovum
   //prevVersion: "0.0.1",
