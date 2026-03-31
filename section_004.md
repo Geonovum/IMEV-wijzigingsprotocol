@@ -1,4 +1,4 @@
-## <a name='_Ref479668423'></a>Tussentijdse werkafspraken
+## Tussentijdse werkafspraken
 
 Het toepassen van het Informatiemodel Externe Veiligheid roept soms vragen op. Bij onduidelijkheden, discrepanties of fouten in de standaard kan de praktijk vragen hoe zij de standaard – in afwachting van een formele wijziging– moet toepassen. Met name bij X-wijziging van de standaard, die een grote impact op toepassing in de praktijk heeft, zullen geconstateerde eisen of gewenste wijzigingen in de regel niet heel snel worden doorgevoerd op het IMEV. Een tussentijds gebruiksadvies totdat de X-wijziging gepubliceerd en geïmplementeerd kan worden, noemen we een werkafspraak. In dit hoofdstuk lichten we de werkwijze van werkafspraken toe. 
 
