@@ -1,7 +1,7 @@
 <!DOCTYPE html><html lang="nl"><head>
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta content="text/html; charset=utf-8" http-equiv="content-type">
-<meta name="generator" content="ReSpec 35.8.0">
+<meta name="generator" content="ReSpec 37.2.0">
 <style>
 dfn{cursor:pointer}
 .dfn-panel{position:absolute;z-index:35;min-width:300px;max-width:500px;padding:.5em .75em;margin-top:.6em;font-family:"Helvetica Neue",sans-serif;font-size:small;background:#fff;background:var(--indextable-hover-bg,#fff);color:#000;color:var(--text,#000);box-shadow:0 1em 3em -.4em rgba(0,0,0,.3),0 0 1px 1px rgba(0,0,0,.05);box-shadow:0 1em 3em -.4em var(--tocsidebar-shadow,rgba(0,0,0,.3)),0 0 1px 1px var(--tocsidebar-shadow,rgba(0,0,0,.05));border-radius:2px}
@@ -16,6 +16,7 @@ dfn{cursor:pointer}
 .dfn-panel .marker{padding:.1em;margin-left:.5em;border-radius:.2em;text-align:center;white-space:nowrap;font-size:90%;color:#040b1c}
 .dfn-panel .marker.dfn-exported{background:#d1edfd;box-shadow:0 0 0 .125em #1ca5f940}
 .dfn-panel .marker.idl-block{background:#8ccbf2;box-shadow:0 0 0 .125em #0670b161}
+.dfn-panel .marker.cddl-block{background:#8ccbf2;box-shadow:0 0 0 .125em #0670b161}
 .dfn-panel a:not(:hover){text-decoration:none!important;border-bottom:none!important}
 .dfn-panel a[href]:hover{border-bottom-width:1px}
 .dfn-panel ul{padding:0}
@@ -62,13 +63,17 @@ a.bibref{text-decoration:none}
 .respec-offending-element{background:url(data:image/gif;base64,R0lGODdhBAADAPEAANv///8AAP///wAAACwAAAAABAADAEACBZQjmIAFADs=) bottom repeat-x}
 }
 #references :target{background:#eaf3ff;animation:pop .4s ease-in-out 0s 1}
+@media (prefers-color-scheme:dark){
+#references :target{background:color-mix(in srgb, #eaf3ff 15%, transparent)}
+}
+body:has(input[name=color-scheme][value=dark]:checked) #references :target{background:color-mix(in srgb, #eaf3ff 15%, transparent)}
 cite .bibref{font-style:italic}
 a[href].orcid{padding-left:4px;padding-right:4px}
 a[href].orcid>svg{margin-bottom:-2px}
 ol.tof,ul.tof{list-style:none outside none}
 .caption{margin-top:.5em;font-style:italic}
 #issue-summary>ul{column-count:2}
-#issue-summary li{list-style:none;display:inline-block}
+#issue-summary li{list-style:none}
 details.respec-tests-details{margin-left:1em;display:inline-block;vertical-align:top}
 details.respec-tests-details>*{padding-right:2em}
 details.respec-tests-details[open]{z-index:999999;position:absolute;border:thin solid #cad3e2;border-radius:.3em;background-color:#fff;padding-bottom:.5em}
@@ -77,7 +82,8 @@ details.respec-tests-details>ul{width:100%;margin-top:-.3em}
 details.respec-tests-details>li{padding-left:1em}
 .self-link:hover{opacity:1;text-decoration:none;background-color:transparent}
 aside.example .marker>a.self-link{color:inherit}
-.header-wrapper{display:flex;align-items:baseline;position:relative;left:-.5em}
+.header-wrapper{display:flex;align-items:baseline}
+:is(h2,h3,h4,h5,h6):not(#toc>h2,#abstract>h2,#sotd>h2,.head>h2):has(+a.self-link){position:relative;left:-.5em}
 :is(h2,h3,h4,h5,h6):not(#toch2)+a.self-link{color:inherit;order:-1;position:relative;left:-.7em;font-size:1rem;opacity:.5}
 :is(h2,h3,h4,h5,h6)+a.self-link::before{content:"§";text-decoration:none;color:var(--heading-text)}
 :is(h2,h3)+a.self-link{top:-.2em}
@@ -88,6 +94,8 @@ dd{margin-left:0}
 @media print{
 .removeOnSave{display:none}
 }
+body:has(input[name=color-scheme][value=light]:checked),head:not(:has(meta[name=color-scheme][content~=dark]))+body{color-scheme:light}
+body:has(input[name=color-scheme][value=dark]:checked){color-scheme:dark}
 </style>
 <style id="respec-nlgov">
 img.license{float:left;padding-right:5px;background:0 0}
@@ -1347,14 +1355,14 @@ img.license{float:left;padding-right:5px;background:0 0}
 }</script>
 <link rel="stylesheet" href="https://tools.geostandaarden.nl/respec/style/base.css"></head>
 
-<body class="h-entry informative toc-inline"><div class="head">
+<body class="h-entry informative"><div class="head">
     <a class="logo" href="https://www.geonovum.nl/geo-standaarden"><img alt="Geonovum" height="67" id="Geonovum" src="https://docs.geostandaarden.nl/media/Geonovum.svg" width="132">
   </a> <h1 id="title" class="title">Wijzigingsprotocol</h1>
     <h2 id="subtitle" class="subtitle">Informatiemodel Externe Veiligheid</h2>
     <h2>
       Geonovum Beheerdocumentatie<br>
       Werkversie
-      <time class="dt-published" datetime="2026-03-30">18 mei 2026</time>
+      <time class="dt-published" datetime="2026-03-30">30 juli 2026</time>
     </h2>
     <dl>
       <dt>Deze versie:</dt><dd class="status">
@@ -1380,7 +1388,9 @@ img.license{float:left;padding-right:5px;background:0 0}
       <dt>Doe mee:</dt><dd>
     <a href="https://github.com/Geonovum/IMEV-wijzigingsprotocol/">GitHub Geonovum/IMEV-wijzigingsprotocol</a>
   </dd><dd>
-    <a href="https://github.com/Geonovum/IMEV-wijzigingsprotocol/issues/">Dien een melding in</a>
+    <a href="https://github.com/Geonovum/IMEV-wijzigingsprotocol/issues/">All issues</a>
+  </dd><dd>
+    <a href="https://github.com/Geonovum/IMEV-wijzigingsprotocol/issues/new/choose">Dien een melding in</a>
   </dd><dd>
     <a href="https://github.com/Geonovum/IMEV-wijzigingsprotocol/commits/">Revisiehistorie</a>
   </dd><dd>
@@ -1522,9 +1532,7 @@ De consultaties zijn openbaar/ publiek en daardoor mag iedereen reageren op de n
 <ul><li>Aan een oude versie worden geen nieuwe features toegevoegd, geen aanpassingen gedaan op X en Y niveau na het uitbrengen van een nieuwe versie. Verzoeken om aanpassing en wijziging voor nieuwe functionaliteit worden niet meer voor de oude standaard in behandeling genomen maar doorgegeven aan het ontwikkelteam. Correcties (Z-wijzigingen) worden wel uitgevoerd op de vorige versies zolang deze nog ondersteund worden.</li>
 <li>Bij oplevering van een nieuwe versie wordt de voorgaande versie nog een van te voren vastgestelde periode ondersteund. De duur van de overgangsperiode wordt mede bepaald door de omvang van de wijzigingen (X, Y en Z wijzigingen op de vorige versies), de staat van ontwikkeling van de standaard, en of de standaard in voorlopig dan wel permanent beheer is.</li>
 <li>De duur van de ondersteuningsperiode voor de diverse soorten versies moet nog worden vastgesteld. In de eerste jaren na de inwerkingtreden van de Omgevingswet, waar de Informatiemodel Externe Veiligheidsrisico's ook onder valt, zal de ondersteuningsperiode van verschillende versies anders zijn, dan in de periode van permanent beheer zonder dat daarnaast nog grootschalige ontwikkeling van de standaard plaatsvindt.</li>
-</ul>
-
-</section></section><section id="proces-varianten"><div class="header-wrapper"><h3 id="x2-3-proces-varianten"><bdi class="secno">2.3 </bdi>Proces varianten</h3><a class="self-link" href="#proces-varianten" aria-label="Permalink for Section 2.3"></a></div>
+</ul></section></section><section id="proces-varianten"><div class="header-wrapper"><h3 id="x2-3-proces-varianten"><bdi class="secno">2.3 </bdi>Proces varianten</h3><a class="self-link" href="#proces-varianten" aria-label="Permalink for Section 2.3"></a></div>
 <p>In paragraaf <a href="#releasebeleid">2.2</a> zijn de X, Y en Z wijzigingen uitgelegd. Voor wijzigingen kent Geonovum twee proces varianten. Eén voor X en Y wijzigingen en één voor Z wijzigingen.</p>
 <p><b>Proces voor X en Y wijzigingen</b></p>
 <p>X en Y wijzigingen vergen volledige afstemming en het doorlopen van alle in paragraaf 3.1 beschreven fasen: Inhoud, Toetsing, Besluitvorming en Implementatie. Voor de inhoudelijke fase worden niet alleen de experts en leveranciers betrokken vanuit reguliere overleggen maar ook extra bijeenkomsten met vertegenwoordiging van belangrijke stakeholders en gebruikers. Het resultaat van de besprekingen is het aanscherpen van de wijzigingsverzoeken en het wijzigingsvoorstel. Gedurende de fase ‘Toetsing’ vindt een consultatie (zie paragraaf 2.2.2) van het wijzigingsvoorstel plaats waardoor alle gebruikers van het IMEV en geïnteresseerden in staat worden gesteld te reageren op de komende wijziging. Het wijzigingsvoorstel inclusief de consultatiereacties wordt voorgelegd aan de IMEV Adviesgroep. De Adviesgroep adviseert het Ministerie van IenW (zie figuur 1). Besluitvorming over vaststelling van een nieuwe versie van het model vindt plaats door IenW. </p>
@@ -1543,9 +1551,7 @@ De consultaties zijn openbaar/ publiek en daardoor mag iedereen reageren op de n
 <figure id="fig-betrokkenen-bij-wijzigingen-van-het-informatiemodel-externe-veiligheid">
     <img src="media/image5.png" alt="media/image5.png">
     <figcaption><a class="self-link" href="#fig-betrokkenen-bij-wijzigingen-van-het-informatiemodel-externe-veiligheid">Figuur <bdi class="figno">1</bdi></a> <span class="fig-title">Betrokkenen bij wijzigingen van het Informatiemodel Externe Veiligheid</span></figcaption>
-</figure>
-
-<p>Het IMEV-beheerteam bij <b>Geonovum</b> ontvangt wijzigingsverzoeken ter verbetering van het informatiemodel, gebruik en de bruikbaarheid van het informatiemodel. De wijzigingsverzoeken worden getoetst en van baten en impactanalyses voorzien, door de verzoeken te toetsen bij experts, softwareleveranciers en de beheerder van het REV. 
+</figure><p>Het IMEV-beheerteam bij <b>Geonovum</b> ontvangt wijzigingsverzoeken ter verbetering van het informatiemodel, gebruik en de bruikbaarheid van het informatiemodel. De wijzigingsverzoeken worden getoetst en van baten en impactanalyses voorzien, door de verzoeken te toetsen bij experts, softwareleveranciers en de beheerder van het REV. 
 De <b>expert- en gebruikersgroepen</b> rondom het REV en het IMEV leveren input op de wijzigingsverzoeken en daarmee doorontwikkeling van het IMEV. Ook toetsen wij de wijzigingsverzoeken bij de <b>softwareleveranciers</b> en <b>Rijkswaterstaat</b> als beheerder van het REV en vragen wij hen ons te adviseren. 
 De wijzigingsverzoeken worden door het IMEV-beheerteam gebundeld tot een zelfstandig leesbaar wijzigingsvoorstel dat in verschillende iteraties bij het IMEV Adviesgroep wordt voorgelegd. De <b>IMEV Adviesgroep</b> stuurt op verbinding en samenhang bij de doorontwikkeling van het informatiemodel. Zij brengt advies uit op de door Geonovum voorgestelde wijzigingsvoorstel en legt dit advies voor aan het <b>Ministerie van Infrastructuur en Waterstaat</b> ter besluitvorming. De Directie Omgevingsveiligheid &amp; Milieurisico’s van het ministerie besluit over de voorgestelde wijziging. Bij een positief besluit werkt Geonovum aan de oplevering van de nieuwe versie van het IMEV en gaat over op implementatieondersteuning.</p>
 </section></section>
@@ -1556,9 +1562,7 @@ De wijzigingsverzoeken worden door het IMEV-beheerteam gebundeld tot een zelfsta
 <figure id="fig-fasen-wijzigingsproces">
     <img src="media/image3.png">
     <figcaption><a class="self-link" href="#fig-fasen-wijzigingsproces">Figuur <bdi class="figno">2</bdi></a> <span class="fig-title">Fasen wijzigingsproces</span></figcaption>
-</figure>
-
-<p><strong>Inhoud</strong><br>In de fase <em>Inhoud</em> wordt voor iedere wijzigingsverzoek bepaald of deze wordt opgenomen in de nieuwe versie van de standaard of niet. 
+</figure><p><strong>Inhoud</strong><br>In de fase <em>Inhoud</em> wordt voor iedere wijzigingsverzoek bepaald of deze wordt opgenomen in de nieuwe versie van de standaard of niet. 
 Dit wordt door Geonovum vastgelegd in de <a href="https://github.com/Geonovum/imev-werkomgeving/issues">issue-lijst</a> op de Geonovum GitHub. 
 Voor wijzigingsverzoeken die worden meegenomen in de nieuwe versie van de standaard, worden baten en impact beschreven en oplossingen uitgewerkt. 
 Dit gebeurt in samenwerking met expert- en gebruikersgroepen, softwareleveranciers en de beheerder van het REV. 
@@ -1589,16 +1593,12 @@ In <a href="#implementatie-ondersteuning">Hoofdstuk 5</a> lichten we de implemen
 <ul><li>De ene standaard hanteert voor een bepaalde aanduiding een andere spelling dan een andere standaard, waardoor je plan formeel nooit aan alle standaarden kan voldoen;</li>
 <li>In de standaarden zijn bepaalde technische vrijheden mogelijk die op grond van een goede praktijk niet zouden moeten worden benut;</li>
 <li>In de standaarden is iets wel mogelijk, maar niet verplicht, terwijl dit wel sterk gewenst is.</li>
-</ul>
-
-<p>In dit soort gevallen zal Geonovum na consultatie van softwareleveranciers, gebruikersgroep en IMEV Adviesgroep een werkafspraak publiceren over hoe er in afwachting van formele reparatie moet worden omgegaan met een geconstateerd probleem. Zo’n werkafspraak heeft de formele status van een advies van Geonovum aan de gebruikers van het IMEV. De werkafspraak vervangt niet de in gebruik zijnde versie van IMEV, maar geldt wel als werkwijze in afwachting van reparatie van een onderdeel van het reguliere beheer en de komende X-wijziging.  </p>
+</ul><p>In dit soort gevallen zal Geonovum na consultatie van softwareleveranciers, gebruikersgroep en IMEV Adviesgroep een werkafspraak publiceren over hoe er in afwachting van formele reparatie moet worden omgegaan met een geconstateerd probleem. Zo’n werkafspraak heeft de formele status van een advies van Geonovum aan de gebruikers van het IMEV. De werkafspraak vervangt niet de in gebruik zijnde versie van IMEV, maar geldt wel als werkwijze in afwachting van reparatie van een onderdeel van het reguliere beheer en de komende X-wijziging.  </p>
 <p>Voor bovengenoemde voorbeelden zouden de werkafspraken er resp. als volgt uit kunnen zien:</p>
 <ul><li>Hanteer altijd de spelling volgens standaard A;</li>
 <li>Gebruik nooit de mogelijkheid B die de standaarden bieden;</li>
 <li>Doe het altijd op manier C.</li>
-</ul>
-
-<p>De status van deze werkafspraken is als volgt:</p>
+</ul><p>De status van deze werkafspraken is als volgt:</p>
 <ol><li>de werkafspraken zijn van toepassing totdat de wijzigingen in werking zijn getreden, daarna zijn ze niet meer van toepassing en vervallen zij;</li>
 <li>indien mogelijk zijn de werkafspraken altijd een directe voorloper van de wijzigingen zelf die zullen worden doorgevoerd. Vaak zal een werkafspraak een keuze bevatten. Deze zal goed beredeneerd zijn, maar toch anders kunnen uitvallen als het daadwerkelijke wijzigingsproces wordt ingezet;</li>
 <li>er worden alleen werkafspraken gemaakt die vooruitlopen op aanstaande wijzigingen. Er worden binnen dit kader geen permanente werkafspraken gemaakt die niet verankerd zullen worden in de IMEV standaard;</li>
@@ -1615,9 +1615,7 @@ In <a href="#implementatie-ondersteuning">Hoofdstuk 5</a> lichten we de implemen
 <li>Voorbeeld API-specificatie;</li>
 <li>Voorbeeldbestanden;</li>
 <li>Het EAP-bestand met UML-diagrammen.</li>
-</ul>
-
-<p>De bestanden zijn beschikbaar en vindbaar via de IMEV pagina op de <a href="https://www.geonovum.nl/geo-standaarden/informatiemodel-externe-veiligheid-imev">Geonovum website</a>.</p>
+</ul><p>De bestanden zijn beschikbaar en vindbaar via de IMEV pagina op de <a href="https://www.geonovum.nl/geo-standaarden/informatiemodel-externe-veiligheid-imev">Geonovum website</a>.</p>
 </section><section id="validatie-en-certificatie"><div class="header-wrapper"><h3 id="x5-2-validatie-en-certificatie"><bdi class="secno">5.2 </bdi>Validatie en certificatie</h3><a class="self-link" href="#validatie-en-certificatie" aria-label="Permalink for Section 5.2"></a></div>
 <p>Na het opleveren van de nieuwe standaard inclusief de verschillende producten, richten wij ons op de implementatie ondersteuning van de standaard door softwareleveranciers, beheerder van het REV en de bronhouders: dit is implementatieondersteuning vanuit optiek van het gebruik van de standaard in de praktijk. 
 Bij softwareleveranciers en het register is de ondersteuning vooral technisch van aard. 
@@ -1667,9 +1665,7 @@ Ook zijn ze raadplegen als releasenotes in het <a href="https://docs.geostandaar
 <p>Het garanderen van het serieus nemen van klachten kan alleen, door deze volgens een zorgvuldige procedure te behandelen. Klachten kunnen ook beschouwd worden als verbetersuggestie. We onderscheiden daarom twee verschillende type klachten met betrekking tot de standaarden:</p>
 <ul><li>Klachten over de toepassingsmogelijkheid van de standaard;</li>
 <li>Klachten over het beheer van de standaard.</li>
-</ul>
-
-<p>In het eerste geval is het feitelijk geen klacht maar een wens of eis tot het aanpassen van de standaard. De beheerders van de betreffende standaard nemen dit in behandeling en vastgelegd als wijzigingsverzoek en niet als klacht. In dit geval doet Geonovum haar werk goed. </p>
+</ul><p>In het eerste geval is het feitelijk geen klacht maar een wens of eis tot het aanpassen van de standaard. De beheerders van de betreffende standaard nemen dit in behandeling en vastgelegd als wijzigingsverzoek en niet als klacht. In dit geval doet Geonovum haar werk goed. </p>
 <p>In het tweede geval is er sprake van ontevredenheid over de uitvoering van het beheerproces van de standaard en betreft het niet de inhoud, de standaard zelf. De indiener is van mening dat Geonovum, het beheerteam van de betreffende standaard, dan wel een persoon het werk niet naar behoren uitvoert. In dat geval wordt de klacht doorgezet naar opdrachtgever van het beheer van de standaard. </p>
 <p>De route van indienen van klachten is bij Geonovum in principe via de IMEV helpdesk. Dit is de manier om met Geonovum in contact te komen, vragen te stellen en wensen en eisen met betrekking tot de standaard kenbaar te maken. Door het via een helpdesk te laten verlopen, wordt ook het type van de issues geregistreerd. De helpdesk route voor zowel vragen, wijzigingsverzoeken, klachten en incidenten geeft een zo compleet mogelijk overzicht in het contact met de gebruikers van de standaarden, over de standaarden.</p>
 </section></section>    
@@ -1682,6 +1678,7 @@ Ook zijn ze raadplegen als releasenotes in het <a href="https://docs.geostandaar
       <div>
         <a class="self-link" href="#dfn-adviesgroep" aria-label="Permalink for definition: Adviesgroep. Activate to close this dialog.">Permalink</a>
          
+        
       </div>
       <p><b>Referenced in:</b></p>
       <ul>
@@ -1692,6 +1689,7 @@ Ook zijn ze raadplegen als releasenotes in het <a href="https://docs.geostandaar
       <div>
         <a class="self-link" href="#dfn-expert-en-gebruikersgroepen" aria-label="Permalink for definition: Expert- en gebruikersgroepen. Activate to close this dialog.">Permalink</a>
          
+        
       </div>
       <p><b>Referenced in:</b></p>
       <ul>
@@ -1702,6 +1700,7 @@ Ook zijn ze raadplegen als releasenotes in het <a href="https://docs.geostandaar
       <div>
         <a class="self-link" href="#dfn-imev-en-beheerobjecten" aria-label="Permalink for definition: IMEV en beheerobjecten. Activate to close this dialog.">Permalink</a>
          
+        
       </div>
       <p><b>Referenced in:</b></p>
       <ul>
@@ -1712,6 +1711,7 @@ Ook zijn ze raadplegen als releasenotes in het <a href="https://docs.geostandaar
       <div>
         <a class="self-link" href="#dfn-wijzigingsprotocol" aria-label="Permalink for definition: Wijzigingsprotocol. Activate to close this dialog.">Permalink</a>
          
+        
       </div>
       <p><b>Referenced in:</b></p>
       <ul>
@@ -1724,6 +1724,7 @@ Ook zijn ze raadplegen als releasenotes in het <a href="https://docs.geostandaar
       <div>
         <a class="self-link" href="#dfn-wijzigingsproces" aria-label="Permalink for definition: Wijzigingsproces. Activate to close this dialog.">Permalink</a>
          
+        
       </div>
       <p><b>Referenced in:</b></p>
       <ul>
@@ -1736,6 +1737,7 @@ Ook zijn ze raadplegen als releasenotes in het <a href="https://docs.geostandaar
       <div>
         <a class="self-link" href="#dfn-wijzigingsverzoek" aria-label="Permalink for definition: Wijzigingsverzoek. Activate to close this dialog.">Permalink</a>
          
+        
       </div>
       <p><b>Referenced in:</b></p>
       <ul>
@@ -1746,6 +1748,7 @@ Ook zijn ze raadplegen als releasenotes in het <a href="https://docs.geostandaar
       <div>
         <a class="self-link" href="#dfn-wijzigingsvoorstel" aria-label="Permalink for definition: Wijzigingsvoorstel. Activate to close this dialog.">Permalink</a>
          
+        
       </div>
       <p><b>Referenced in:</b></p>
       <ul>
@@ -1766,8 +1769,11 @@ function setupPanel() {
 }
 
 function panelListener() {
-  /** @type {HTMLElement} */
+  /** @type {HTMLElement | null} */
   let panel = null;
+  /**
+   * @param {KeyboardEvent|MouseEvent} event
+   */
   return event => {
     const { target, type } = event;
 
@@ -1775,24 +1781,34 @@ function panelListener() {
 
     // For keys, we only care about Enter key to activate the panel
     // otherwise it's activated via a click.
-    if (type === "keydown" && event.key !== "Enter") return;
+    if (
+      type === "keydown" &&
+      /** @type {KeyboardEvent} */ (event).key !== "Enter"
+    )
+      return;
 
     const action = deriveAction(event);
 
     switch (action) {
       case "show": {
         hidePanel(panel);
-        /** @type {HTMLElement} */
+        /** @type {HTMLElement | null} */
         const dfn = target.closest("dfn, .index-term");
+        if (!dfn?.id) break;
         panel = document.getElementById(`dfn-panel-for-${dfn.id}`);
-        const coords = deriveCoordinates(event);
+        if (!panel) break;
+        const coords = deriveCoordinates(
+          /** @type {MouseEvent|KeyboardEvent} */ (event)
+        );
         displayPanel(dfn, panel, coords);
         break;
       }
       case "dock": {
-        panel.style.left = null;
-        panel.style.top = null;
-        panel.classList.add("docked");
+        if (panel) {
+          panel.style.left = "";
+          panel.style.top = "";
+          panel.classList.add("docked");
+        }
         break;
       }
       case "hide": {
@@ -1843,7 +1859,8 @@ function deriveAction(event) {
     if (hitALink) {
       return target.classList.contains("self-link") ? "hide" : "dock";
     }
-    const panel = target.closest(".dfn-panel");
+
+    const panel = /** @type {HTMLElement} */ (target.closest(".dfn-panel"));
     return panel.classList.contains("docked") ? "hide" : "none";
   }
   if (document.querySelector(".dfn-panel:not([hidden])")) {
@@ -1887,9 +1904,9 @@ function displayPanel(dfn, panel, { x, y }) {
     const newLeft = Math.max(MARGIN, x + MARGIN - panelRect.width);
     const newCaretOffset = left - newLeft;
     panel.style.left = `${newLeft}px`;
-    /** @type {HTMLElement} */
+    /** @type {HTMLElement | null} */
     const caret = panel.querySelector(".caret");
-    caret.style.left = `${newCaretOffset}px`;
+    if (caret) caret.style.left = `${newCaretOffset}px`;
   }
 
   // As it's a dialog, we trap focus.
@@ -1938,6 +1955,9 @@ function trapFocus(panel, dfn) {
 function createTrapListener(anchors, panel, dfn) {
   const lastIndex = anchors.length - 1;
   let currentIndex = 0;
+  /**
+   * @param {KeyboardEvent} event
+   */
   return event => {
     switch (event.key) {
       // Hitting "Tab" traps us in a nice loop around elements.
@@ -1967,7 +1987,7 @@ function createTrapListener(anchors, panel, dfn) {
   };
 }
 
-/** @param {HTMLElement} panel */
+/** @param {HTMLElement | null} panel */
 function hidePanel(panel) {
   if (!panel) return;
   panel.hidden = true;
