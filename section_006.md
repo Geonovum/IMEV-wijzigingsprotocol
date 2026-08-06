@@ -7,7 +7,7 @@ Ter ondersteuning van de implementatie van het IMEV in de praktijk leveren wij v
 <li>Begrippenkader</li>
 <li>JSON-schema</li>
 <li>API specificaties </li>
-<li>Voorbeeldbestanden<ul>
+<li>Voorbeeldbestanden</li>
 <li>Het EAP-bestand met UML-diagrammen.</li>
 </ul>
 <br/>
