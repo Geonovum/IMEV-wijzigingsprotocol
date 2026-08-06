@@ -1,8 +1,11 @@
 # Inleiding {#5494A851}
+
 ## Introductie {#660A197E}
 Geonovum ontwikkelt en beheert het Informatiemodel Externe Veiligheid (IMEV) in opdracht van het Ministerie van Infrastructuur en Waterstaat. Mensen die in de praktijk gebruik maken van dit informatiemodel hebben vragen over de toepassing ervan, willen weten welke ontwikkelingen er spelen en hebben mogelijk suggesties voor aanpassingen van het informatiemodel. Dit wijzigingsprotocol is samen met het <a href='https://docs.geostandaarden.nl/imev/beheerplan/' target='_blank'>beheerplan</a> onderdeel van het beheerproces van het IMEV. Geonovum voert het beheer en de doorontwikkeling van standaarden uit volgens <a href='https://www.logius.nl/diensten/bomos' target='_blank'>BOMOS</a>: het beheer- en ontwikkelmodel voor open standaarden. Wijzigingen in het IMEV worden niet zomaar doorgevoerd. Voor de ene gebruiker zal de wijzing gering van impact zijn, voor de ander kan het grote gevolgen hebben. Daar houden wij rekening mee. De gebruikers van het IMEV zijn betrokken via verschillende groepen en overleggen. In dit wijzigingsprotocol zijn vastgelegd wie betrokken zijn en wat de belangrijkste taken en verantwoordelijkheden zijn tijdens het wijzigingsproces.
+
 ## Waarom een wijzigingsprotocol {#699591BE}
 In dit wijzigingsprotocol staan de sturende principes achter het wijzigingsproces voor deze standaard die Geonovum: de manier waarop wijzigingen in het Informatiemodel Externe Veiligheid plaatsvinden. Met dit protocol wordt elke wijziging van het informatiemodel een voorspelbaar proces voor de ketenpartners en gebruikers van het informatiemodel. In het protocol zijn basisbegrippen en uitgangspunten uiteengezet voor het wijzigingsproces. Bijvoorbeeld wat onder nieuwe en volgende versies verstaan wordt. 
+
 ## Begrippen {#1EC41CD8}
 <table id='d6aAdBa' style='width: 100%;'><colgroup><col id='col1' style='width: 22.048430077627156%;'>
 <col id='col2' style='width: 77.95156992237284%;'>

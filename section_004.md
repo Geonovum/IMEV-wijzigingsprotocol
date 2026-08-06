@@ -1,5 +1,6 @@
 # Wijzigingsproces {#07951E65}
 De aanleiding voor een wijzigingsproces is gebaseerd op wijzigingsverzoeken die bij Geonovum binnenkomen via de IMEV helpdesk: de wensen en gevonden fouten in het IMEV zijn aanleiding om de standaard te vernieuwen. Samen vormen zij het wijzigingsvoorstel. Geonovum neemt als beheerder het initiatief om een wijzigingsproces te starten conform dit wijzigingsprotocol.
+
 ## Fasen in het wijzigingsproces {#73268B03}
 Het volledige wijzigingsproces doorloopt de fasen Inhoud, Toetsing, Besluitvorming en Implementatie, zoals weergegeven in Figuur 2.
 <img src='media/image2.png' alt='Fasen wijzigingsproces: het volledige wijzigingsproces doorloopt de fasen Inhoud, Toetsing, Besluitvorming en Implementatie.' style='width: 38.20312791881226%;'></img>
@@ -20,14 +21,14 @@ Het wijzigingsvoorstel wordt inclusief de consulatie reacties voorgelegd aan de 
 <br/>
 <b>Implementatie</b>
 Het in gebruik nemen van het Informatiemodel in de praktijk staat centraal in deze fase. Hiervoor leveren wij nieuwe versies op van: 
-<ul><li><i>Modeldocument</i><ul><li><i>Begrippenkader </i></li>
+<ul><li><i>Modeldocument</i><ul><li><i>Begrippenkader</i></li>
 <li><i>JSON-schema</i></li>
 <li><i>API specificaties </i></li>
 <li><i>Voorbeeldbestanden</i></li>
 <li><i>Het EAP-bestand met UML-diagrammen</i></li>
 </ul>
-</li>
-</ul>
+<br/>
 Met deze producten, de IMEV helpdesk en bijeenkomsten ondersteunen wij bij de implementatie van de nieuwe versie van het informatiemodel. Het resultaat van deze fase is dat de gebruikers data kunnen maken en uitwisselen conform de nieuwe versie van het IMEV. In <a href='#15587A4C'>Hoofdstuk 5</a> lichten we de implementatiefase verder toe.
+
 ## Inzicht in het wijzigingsproces {#7C8C99BF}
 helpdeskmeldingen en wijzigingsverzoeken alsook (inter)nationale ontwikkelingen kunnen  aanleiding geven tot de verdere ontwikkeling het IMEV. Zij worden gebundeld in een wijzigingsvoorstel. Het wijzigingsprotocol geeft richting aan het wijzigingsproces dat dit wijzigingsvoorstel doorloopt. Het ministerie van IenW, besluit na advies van de adviesgroep over het wijzigingsvoorstel. Z-wijzigingen worden door Geonovum zelf besloten en uitgevoerd. 
