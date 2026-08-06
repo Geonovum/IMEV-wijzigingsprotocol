@@ -14,7 +14,6 @@ Met behulp van dit wijzigingsprotocol voor het Informatiemodel Externe Veilighei
 <br/>
 
 ## Releasebeleid {#36DFA7EB}
-
 ### Nieuwe versie van de standaard {#3D39B6AA}
 Een release van een standaard is een nieuwe uitgave van de standaard. De nieuwe release kenmerkt zich ten opzichte van de oude versie door een hoger versienummer. Een release betreft 1 product van een standaard of is een bundel van meerdere producten van de betreffende standaard. Bij de release is ieder product voorzien van een nieuw versienummer conform X.Y.Z schrijfwijze (zie hierna) en een status. Het JSON-schema en de voorbeeldbestanden hebben daarom ieder hun eigen versienummer. 
 <br/>
@@ -27,7 +26,6 @@ Elk product van onze standaarden voorzien wij van een versienummer. Dit doen wij
 <li><b>Y-wijzigingen</b> Dit zijn wijzigingen die niet de structuur veranderen. Dit kunnen bijvoorbeeld updates zijn of inhoudelijke aanpassingen aan objecten, attributen of waardelijsten of de reikwijdte van de standaard. Deze wijzigingen zijn backwards compatible. Frequentie: in overleg met de opdrachtgever.</li>
 <li><b>Z-wijzigingen</b> Dit zijn in feite oplossingen van technische fouten of verbeteringen van technische aard, alsmede tekstuele verbeteringen. Deze wijzigingen zijn backwards compatible. Frequentie: zo spoedig mogelijk door Geonovum na constatering.</li>
 </ul>
-<br/>
 <br/>
 
 ### Consultatie {#7AB762DE}
@@ -44,14 +42,14 @@ Voor het onderhoud en de ondersteuning van een oude versie van het IMEV gelden d
 <li>De duur van de ondersteuningsperiode voor de diverse soorten versies moet nog worden vastgesteld. In de eerste jaren na de inwerkingtreden van de Omgevingswet zal de ondersteuningsperiode van verschillende versies anders zijn, dan in de periode van permanent beheer zonder dat daarnaast nog grootschalige ontwikkeling van de standaard plaatsvindt.</li>
 </ul>
 <br/>
-<br/>
 
 ## Proces varianten {#3C8E3B5A}
 In paragraaf <a href='#36DFA7EB'>2.2</a> zijn de X, Y en Z wijzigingen uitgelegd. Voor wijzigingen kent Geonovum twee proces varianten. Eén voor X en Y wijzigingen en één voor Z wijzigingen.
 <br/>
 <br/>
 <b>Proces voor X en Y wijzigingen</b>
-X en Y wijzigingen vergen volledige afstemming en het doorlopen van alle in paragraaf <a href='#73268B03'>3.1</a> beschreven fasen: Inhoud, Toetsing, Besluitvorming en Implementatie. Voor de <i>inhoudelijke fase</i> worden niet alleen de experts en leveranciers betrokken vanuit reguliere overleggen maar ook extra bijeenkomsten met vertegenwoordiging van ketenpartners en gebruikers. Het resultaat van de besprekingen zijn duidelijkere wijzigingsverzoeken en het wijzigingsvoorstel. Gedurende de <i>fase ‘Toetsing’</i> vindt een consultatie (zie paragraaf <a href='#7AB762DE'>2.2.2</a>) van het wijzigingsvoorstel plaats. Hierdoor kunnen alle gebruikers van het IMEV en geïnteresseerden reageren op de komende wijziging. Het wijzigingsvoorstel inclusief de consultatiereacties leggen wij voor aan de IMEV Adviesgroep. De adviesgroep adviseert het Ministerie van IenW (zie <a href='#d6aBfBiBb'>figuur 1</a>). Het Ministerie van IenW <i>besluit</i> over de vaststelling van de nieuwe versie van het Informatiemodel Externe Veiligheid. Na oplevering van de nieuwe versie starten wij de <i>implementatie</i>ondersteuning voor de nieuwe versie. 
+X en Y wijzigingen vergen volledige afstemming en het doorlopen van alle in paragraaf <a href='#73268B03'>3.1</a> beschreven fasen: Inhoud, Toetsing, Besluitvorming en Implementatie. Voor de <i>inhoudelijke fase</i> worden niet alleen de experts en leveranciers betrokken vanuit reguliere overleggen maar ook extra bijeenkomsten met vertegenwoordiging van ketenpartners en gebruikers. Het resultaat van de besprekingen zijn duidelijkere wijzigingsverzoeken en het wijzigingsvoorstel. Gedurende de <i>fase ‘Toetsing’</i> vindt een consultatie (zie paragraaf <a href='#7AB762DE'>2.2.2</a>) van het wijzigingsvoorstel plaats. Hierdoor kunnen alle gebruikers van het IMEV en geïnteresseerden reageren op de komende wijziging.<br/>
+Het wijzigingsvoorstel inclusief de consultatiereacties leggen wij voor aan de IMEV Adviesgroep. De adviesgroep adviseert het Ministerie van IenW (zie <a href='#d6aBfBiBb'>figuur 1</a>). Het Ministerie van IenW <i>besluit</i> over de vaststelling van de nieuwe versie van het Informatiemodel Externe Veiligheid. Na oplevering van de nieuwe versie starten wij de <i>implementatie</i>ondersteuning voor de nieuwe versie. 
 <br/>
 <br/>
 <b>Proces voor Z wijzigingen</b>
@@ -68,7 +66,7 @@ De volgende groepen en instanties (actoren) zijn betrokken bij het wijzigingspro
 </ul>
 <br/>
 <br/>
-<figure id='d6aBfBiBb'><img src='media/image1.jpeg' alt='Betrokkenen bij wijzigingen van het Informatiemodel Externe Veiligheid' style='width: 100%;'></img>
+<figure id='d6aBfBiBb'><img src='media/image2.png' alt='Betrokkenen bij wijzigingen van het Informatiemodel Externe Veiligheid' style='width: 100%;'></img>
 <figcaption>Figuur Betrokkenen bij wijzigingen van het Informatiemodel Externe Veiligheid</figcaption></figure>
 <br/>
 <br/>

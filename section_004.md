@@ -21,14 +21,16 @@ Het wijzigingsvoorstel wordt inclusief de consulatie reacties voorgelegd aan de 
 <br/>
 <b>Implementatie</b>
 Het in gebruik nemen van het Informatiemodel in de praktijk staat centraal in deze fase. Hiervoor leveren wij nieuwe versies op van: 
-<ul><li><i>Modeldocument</i><ul><li><i>Begrippenkader</i></li>
-<li><i>JSON-schema</i></li>
-<li><i>API specificaties </i></li>
-<li><i>Voorbeeldbestanden</i></li>
-<li><i>Het EAP-bestand met UML-diagrammen</i></li>
+<ul><li><i>Modeldocument</i>
+<li><i>Begrippenkader</i>
+<li><i>JSON-schema</i>
+<li><i>API specificaties</i>
+<li><i>Voorbeeldbestanden</i>
+<li><i>Het EAP-bestand met UML-diagrammen</i>
 </ul>
 <br/>
 Met deze producten, de IMEV helpdesk en bijeenkomsten ondersteunen wij bij de implementatie van de nieuwe versie van het informatiemodel. Het resultaat van deze fase is dat de gebruikers data kunnen maken en uitwisselen conform de nieuwe versie van het IMEV. In <a href='#15587A4C'>Hoofdstuk 5</a> lichten we de implementatiefase verder toe.
+<br/>
 
 ## Inzicht in het wijzigingsproces {#7C8C99BF}
 helpdeskmeldingen en wijzigingsverzoeken alsook (inter)nationale ontwikkelingen kunnen  aanleiding geven tot de verdere ontwikkeling het IMEV. Zij worden gebundeld in een wijzigingsvoorstel. Het wijzigingsprotocol geeft richting aan het wijzigingsproces dat dit wijzigingsvoorstel doorloopt. Het ministerie van IenW, besluit na advies van de adviesgroep over het wijzigingsvoorstel. Z-wijzigingen worden door Geonovum zelf besloten en uitgevoerd. 
