@@ -22,9 +22,9 @@
       },
       {
         "target": [
-          "a[href$=\"#samenvatting\"]"
+          "a[href$=\"#47B5C449\"]"
         ],
-        "html": "<a class=\"tocxref\" href=\"#samenvatting\">Samenvatting</a>",
+        "html": "<a class=\"tocxref\" href=\"#47B5C449\">Samenvatting</a>",
         "failureSummary": "Fix any of the following:\n  Target has insufficient size (613px by 18.6px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22.8px instead of at least 24px."
       },
       {
