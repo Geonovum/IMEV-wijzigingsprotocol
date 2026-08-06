@@ -14,14 +14,15 @@ In dit wijzigingsprotocol staan de sturende principes achter het wijzigingsproce
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='51B91E36'>De expert- en gebruikersgroepen leveren input voor de impactanalyses van de wijzigingsverzoeken aan het IMEV-beheerteam van Geonovum. </p></td>
 </tr>
 <tr><td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='4717FCFE'><b>IMEV en bijbehorende producten</b> </p></td>
-<td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='6949EE0C'>Het Informatiemodel Externe Veiligheid bevat afspraken over de digitale structuur waarin overheden gegevens vastleggen over de opslag, het transport en het gebruik van gevaarlijke stoffen. Het IMEV bestaat uit de volgende producten:
-</p><ul><li><i>Modeldocument</i><ul><li><i>Begrippenkader</i></li>
+<td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='6949EE0C'>Het Informatiemodel Externe Veiligheid bevat afspraken over de digitale structuur waarin overheden gegevens vastleggen over de opslag, het transport en het gebruik van gevaarlijke stoffen. Het IMEV bestaat uit de volgende producten:<br/>
+<ul><li><i>Modeldocument</i></li>
+<li><i>Begrippenkader</i></li>
 <li><i>JSON-schema</i></li>
 <li><i>API specificaties </i></li>
 <li><i>Voorbeeldbestanden</i></li>
 <li><i>Het EAP-bestand met UML-diagrammen</i></li>
 </ul>
-</td>
+</p></td>
 </tr>
 <tr><td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='501F0A81'><b>Wijzigingsprotocol</b> </p></td>
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='51E2CD54'>Hiermee wordt het geheel van vastgelegde regels en afspraken voor het wijzigen van de standaard vastgelegd. </p></td>
