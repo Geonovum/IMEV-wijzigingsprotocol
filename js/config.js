@@ -1,7 +1,7 @@
 var documentConfig =
 {
   title: "Wijzigingsprotocol Informatiemodel Externe Veiligheid",
-  shortName: "WijzigingsprotocolInformatiemodelExterneVeiligheid",
+  shortName: "IMEV wijzigingsprotocol",
   pubDomain: "imev",
   specStatus: "def",
   specType: "bd",
@@ -12,12 +12,12 @@ var documentConfig =
   publishDate: "2026-08-06",
   publishVersion: "1.2",
   thisVersion: [
-    "https://docs.geostandaarden.nl/imev/def-bd-WijzigingsprotocolInformatiemodelExterneVeiligheid-20260805/"
+    "https://docs.geostandaarden.nl/imev/def-bd-imev-wijzigingsprotocol-20260806/"
   ],
   previousPublishDate: "2026-03-30",
   previousPublishVersion: "1.1",
   prevVersion: [
-    "https://docs.geostandaarden.nl/imev/def-bd-imev-wijzigingsprotocol-20260330/"
+    "https://docs.geostandaarden.nl/imev/def-bd-IMEV-wijzigingsprotocol-20230208/"
   ],
   previousMaturity: "def",
   github: "https://github.com/Geonovum/imev-wijzigingsprotocol/",
@@ -28,14 +28,14 @@ var documentConfig =
     {
       name: "Monique van Scherpenzeel",
       company: "Geonovum",
-      companyURL: "https://www.geonovum.nl/"
+      companyURL: "https://www.geonovum.nl/geo-standaarden/informatiemodel-externe-veiligheid-imev/"
     }
   ],
   editors: [
     {
-      name: "Monique van Scherpenzeel",
+      name: "Jan Cas Smit",
       company: "Geonovum",
-      companyURL: "https://www.geonovum.nl/"
+      companyURL: "https://www.geonovum.nl/geo-standaarden/informatiemodel-externe-veiligheid-imev/"
     }
   ]
 }
