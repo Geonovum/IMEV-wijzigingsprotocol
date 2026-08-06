@@ -1,4 +1,4 @@
-## Samenvatting
+## Samenvatting {#47B5C449}
 Iedereen die gebruik maakt van het Informatiemodel Externe Veiligheid (IMEV) kan wijzigingsverzoeken indienen via de <a href='mailto:imev@geonovum.nl' target='_blank'>IMEV-helpdesk</a>. Wijzigingsverzoeken kunnen variëren van een betere aansluiting op het werkproces, handiger voor implementatie tot en met het oplossen van fouten in het informatiemodel. De wijzigingsverzoeken hebben tot doel een betere werking van de standaard in de praktijk. Ook kunnen ontwikkelingen aanleiding zijn om het Informatiemodel Externe Veiligheid te wijzigen. Denk daarbij aan nieuwe wet- en regelgeving of aanpassing van de standaard door internationale ontwikkelingen.
 <br/>
 <br/>
