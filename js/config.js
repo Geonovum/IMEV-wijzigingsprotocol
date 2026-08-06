@@ -17,7 +17,7 @@ var documentConfig =
   previousPublishDate: "2026-03-30",
   previousPublishVersion: "1.1",
   prevVersion: [
-    "https://docs.geostandaarden.nl/imev/def-bd-IMEV-wijzigingsprotocol-20230208/"
+    "https://docs.geostandaarden.nl/imev/def-bd-imev-wijzigingsprotocol-20260330/"
   ],
   previousMaturity: "def",
   github: "https://github.com/Geonovum/imev-wijzigingsprotocol/",
