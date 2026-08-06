@@ -66,8 +66,8 @@ De volgende groepen en instanties (actoren) zijn betrokken bij het wijzigingspro
 </ul>
 <br/>
 <br/>
-<figure id='d6aBfBiBb'><img src='media/image2.png' alt='Betrokkenen bij wijzigingen van het Informatiemodel Externe Veiligheid' style='width: 100%;'></img>
-<figcaption>Figuur Betrokkenen bij wijzigingen van het Informatiemodel Externe Veiligheid</figcaption></figure>
+<figure id='d6aBfBiBb'><img src='media/image1.jpeg' alt='Betrokkenen bij wijzigingen van het Informatiemodel Externe Veiligheid' style='width: 100%;'></img>
+<figcaption>Betrokkenen bij wijzigingen van het Informatiemodel Externe Veiligheid</figcaption></figure>
 <br/>
 <br/>
 Het IMEV-beheerteam bij <b>Geonovum</b> ontvangt wijzigingsverzoeken ter verbetering van het informatiemodel, gebruik en de bruikbaarheid van het informatiemodel. De wijzigingsverzoeken worden getoetst en van baten en impactanalyses voorzien. Dit doen wij door de wijzigingsverzoeken te toetsen bij experts, softwareleveranciers en de beheerder van het REV. 

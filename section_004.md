@@ -2,9 +2,9 @@
 De aanleiding voor een wijzigingsproces is gebaseerd op wijzigingsverzoeken die bij Geonovum binnenkomen via de IMEV helpdesk: de wensen en gevonden fouten in het IMEV zijn aanleiding om de standaard te vernieuwen. Samen vormen zij het wijzigingsvoorstel. Geonovum neemt als beheerder het initiatief om een wijzigingsproces te starten conform dit wijzigingsprotocol.
 
 ## Fasen in het wijzigingsproces {#73268B03}
-Het volledige wijzigingsproces doorloopt de fasen Inhoud, Toetsing, Besluitvorming en Implementatie, zoals weergegeven in Figuur 2.
-<img src='media/image2.png' alt='Fasen wijzigingsproces: het volledige wijzigingsproces doorloopt de fasen Inhoud, Toetsing, Besluitvorming en Implementatie.' style='width: 38.20312791881226%;'></img>
-Figuur 2 Fasen wijzigingsproces
+Het volledige wijzigingsproces doorloopt de fasen Inhoud, Toetsing, Besluitvorming en Implementatie, zoals weergegeven in <a href='#d6aBfBiCc'>figuur 2</a>.
+<figure id='d6aBfBiCc'><img src='media/image2.png' alt='Fasen wijzigingsproces: het volledige wijzigingsproces doorloopt de fasen Inhoud, Toetsing, Besluitvorming en Implementatie.' style='width: 38.20312791881226%;'></img>
+<figcaption>Fasen wijzigingsproces</figcaption></figure>
 <br/>
 <br/>
 <b>Inhoud</b>
