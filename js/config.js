@@ -9,7 +9,7 @@ var documentConfig =
   latestVersion: [
     "https://docs.geostandaarden.nl/imev/imev-wijzigingsprotocol/"
   ],
-  publishDate: "2026-08-06",
+  publishDate: "2026-08-11",
   publishVersion: "1.2",
   thisVersion: [
     "https://docs.geostandaarden.nl/imev/def-bd-imev-wijzigingsprotocol-20260806/"
