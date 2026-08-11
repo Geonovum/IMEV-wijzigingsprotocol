@@ -6,6 +6,11 @@ Wij geven inzicht in de ontvangen wijzigingsverzoeken en de status van de wijzig
 <br/>
 <br/>
 Het wijzigingsvoorstel vormt de basis voor de nieuwe versie van het IMEV. Ons beheerteam werkt daarvoor nauw samen met experts uit de praktijk. Met behulp een publieke consultatie op de Geonovum website vragen wij de gebruikers van het IMEV om feedback. Het definitieve wijzigingsvoorstel leggen wij voor aan de IMEV Adviesgroep. Het Ministerie van IenW besluit en stelt de nieuwe versie vast. Dit doet zij mede op basis van advies van de IMEV adviesgroep. Ook  geeft het ministerie aan hoelang de oude versie van het informatiemodel wordt ondersteund en wanneer de oude versie komt te vervallen. 
+<br/>
+<br/>
+<figure id='d6aBfBiAa'><img src='media/wijzigingsprotocol-standaarden.png' alt='Van wijzigingsverzoek tot een nieuwe versie van de standaard' style='width: 100%;'></img>
+<figcaption>Van wijzigingsverzoek tot een nieuwe versie van de standaard</figcaption></figure>
+<br/>
 
 # Versiebeheer {#47B5C445}
 Dit document wordt bijgewerkt op basis van ontwikkelingen rond het beheer van het Informatiemodel Externe Veiligheid. In onderstaand overzicht houden wij de status van verschillende versies van dit document bij. Zo ziet u altijd wanneer de laatste versie is verschenen. 
