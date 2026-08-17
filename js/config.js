@@ -3,8 +3,8 @@ var documentConfig =
   title: "Wijzigingsprotocol Informatiemodel Externe Veiligheid",
   shortName: "IMEV wijzigingsprotocol",
   pubDomain: "imev",
-  specStatus: "def",
-  specType: "wv",
+  specStatus: "wv",
+  specType: "bd",
   license: "cc-by-nd",
   latestVersion: [
     "https://docs.geostandaarden.nl/imev/imev-wijzigingsprotocol/"
