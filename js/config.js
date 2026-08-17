@@ -4,15 +4,15 @@ var documentConfig =
   shortName: "IMEV wijzigingsprotocol",
   pubDomain: "imev",
   specStatus: "def",
-  specType: "bd",
+  specType: "wv",
   license: "cc-by-nd",
   latestVersion: [
     "https://docs.geostandaarden.nl/imev/imev-wijzigingsprotocol/"
   ],
-  publishDate: "2026-08-11",
+  publishDate: "2026-08-17",
   publishVersion: "1.2",
   thisVersion: [
-    "https://docs.geostandaarden.nl/imev/def-bd-imev-wijzigingsprotocol-20260806/"
+    "https://docs.geostandaarden.nl/imev/def-bd-imev-wijzigingsprotocol-20260817/"
   ],
   previousPublishDate: "2026-03-30",
   previousPublishVersion: "1.1",
@@ -33,7 +33,7 @@ var documentConfig =
   ],
   editors: [
     {
-      name: "Jan Cas Smit",
+      name: "Monique van Scherpenzeel",
       company: "Geonovum",
       companyURL: "https://www.geonovum.nl/geo-standaarden/informatiemodel-externe-veiligheid-imev/"
     }
