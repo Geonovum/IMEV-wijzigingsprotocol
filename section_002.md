@@ -8,8 +8,8 @@ In dit wijzigingsprotocol staan de sturende principes achter het wijzigingsproce
 
 ## Begrippen {#1EC41CD8}
 <table style='width: 100%;'><caption>Tabel 2 - Begrippen in dit wijzigingsprotocol</caption>
-<colgroup><col id='col1' style='width: 9.801876955161628%;'>
-<col id='col2' style='width: 21.3532614992469%;'>
+<colgroup><col id='col1-2' style='width: 9.801876955161628%;'>
+<col id='col2-2' style='width: 21.3532614992469%;'>
 </colgroup>
 <thead><tr><th class='left'><p id='2BB7219E'><b>Begrip</b></p></th>
 <th class='left'><p id='2B8EDE11'><b>Toelichting</b></p></th>
