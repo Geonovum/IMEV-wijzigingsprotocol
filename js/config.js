@@ -22,7 +22,7 @@ var documentConfig =
   previousMaturity: "def",
   github: "https://github.com/Geonovum/imev-wijzigingsprotocol/",
   issueBase: "https://github.com/Geonovum/imev-wijzigingsprotocol/issues/",
-  edDraftURI: "https://geonovum.github.io/imev-wijzigingsprotocol//",
+  edDraftURI: "https://geonovum.github.io/imev-wijzigingsprotocol/",
   canonicalURI: "https://docs.geostandaarden.nl/imev/imev-wijzigingsprotocol/",
   authors: [
     {
