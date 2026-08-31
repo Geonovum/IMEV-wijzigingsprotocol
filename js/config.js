@@ -23,7 +23,7 @@ var documentConfig =
   github: "https://github.com/Geonovum/imev-wijzigingsprotocol/",
   issueBase: "https://github.com/Geonovum/imev-wijzigingsprotocol/issues/",
   edDraftURI: "https://geonovum.github.io/imev-wijzigingsprotocol//",
-  canonicalURI: "docs.geostandaarden.nl/imev/imev-wijzigingsprotocol/",
+  canonicalURI: "https://docs.geostandaarden.nl/imev/imev-wijzigingsprotocol/",
   authors: [
     {
       name: "Monique van Scherpenzeel",
